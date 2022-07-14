@@ -1,6 +1,8 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
+Cette page sera mise à jour pendant l'été. Revenez de temps en temps, par exemple pour voir si des enseignants de S6 n'ont pas rajouté des conseils de révisions en plus des miens.
+
 Table des matières de cette page:
 ---------------------------------
 
@@ -8,12 +10,12 @@ Table des matières de cette page:
 - calendrier d'inscription (par ex. sur e-candidat)
 - Les différent parcours (MA et ME) et leurs débouchés
 - les différentes options
-- le stage (!)
 - Comment préparer son entrée en L3 (révisions conseillées, livres, polys)
 - le calendrier prévisionnel de l'année universitaire 2022-2023
 - modalités du contrôle de connaissance
 - Étudiant(e)s AJAC
 - Étudiant(e)s AED
+- le stage (!)
 
 
 
@@ -60,14 +62,7 @@ Le choix est libre mais pour ceux ayant un projet clair de faire IMSD il est peu
 
 À la réunion de rentrée, vous devrez remplir une fiche, avec votre choix, et une case "choix indifférent" pour ceux ne sachant pas et voulant discuter plus longuement avec moi pour se faire un avis.
 
-Le stage
---------
 
-Pour valider sa licence, il est nécessaire de valider un stage. Normalement, vous êtes au courant, vous avez été encouragés à faire votre stage avant l'année de L3 (car pendant la L3 il est difficile de trouver le temps).
-- Si vous avez travaillé l'équivalent de 100h, ceci peut être directement validé comme stage.
-- Sinon, vous devez faire un stage (avec convention de stage signée par l'UL) d'une durée de 3 semaines, puis présenter un rapport de stage. Un stage en établissement scolaire est possible, dans ce cas la durée nécessaire est réduite.
-
-Plus d'informations à la réuion de rentrée. Attention, il faut s'y prendre à temps !!
 
 Préparer sa rentrée, révisions
 ------------------------------
@@ -109,7 +104,14 @@ Si vous êtes AED, vous avez la possibilité, de prendre des options spéciales 
 Plus d'informations à la rentrée, en particulier sur le choix du master, l'obligation de démissioner d'AED dans certains etc.
 
 
+Le stage
+--------
 
+Pour valider sa licence, il est nécessaire de valider un stage. Normalement, vous êtes au courant, vous avez été encouragés à faire votre stage avant l'année de L3 (car pendant la L3 il est difficile de trouver le temps).
+- Si vous avez travaillé l'équivalent de 100h, ceci peut être directement validé comme stage.
+- Sinon, vous devez faire un stage (avec convention de stage signée par l'UL) d'une durée de 3 semaines, puis présenter un rapport de stage. Un stage en établissement scolaire est possible, dans ce cas la durée nécessaire est réduite.
+
+Plus d'informations à la réuion de rentrée. Attention, il faut s'y prendre à temps !!
 
 
 
