@@ -59,7 +59,7 @@ Options
 
 Voir la réunion de rentrée. En parcours MA, il va y avoir deux options : calcul formel, et Analyse numérique 1. Idéalement, il faudrait que les effectifs soient un peu équilibrés. 
 
-Le choix est libre mais pour ceux ayant un projet clair de faire IMSD il est peut-être un peu plus conseillé de faire analyse numérique 1 (et de faire ananum2 en S6), et pour ceux voulant faire MFA puis agreg il est peut-être plus conseillé de faire calcul formel (puis géométrie en S6, qui contient ce qu'il y a au programme d'agreg qui n'a pas encore été fait en L2, ou fait différemment). Mais ce n'est pas obligatoire et les préférences personnelles comptent autant.
+Le choix est libre mais les projets d'études ultérieures (plutôt MFA puis agreg, ou plutôt IMSD) peuvent orienter le choix vers l'une ou l'autre des options.
 
 À la réunion de rentrée, vous devrez remplir une fiche, avec votre choix, et une case "choix indifférent" pour ceux ne sachant pas et voulant discuter plus longuement avec moi pour se faire un avis.
 
@@ -77,12 +77,14 @@ Attention, il n'y a quasiment pas d'algèbre et pas de géométrie. En théorie,
 
 Si vous cherchez des exercices (ou problèmes d'écrit) un peu plus difficiles, vous pouvez regarder ma page de [préparation au second concours de l'ENS Lyon](http://dmegy.perso.math.cnrs.fr/2ndconcours/).
 
+Si par contre vous souhaitez vous renforcer en calcul de base (les défaillances en L3 sont *beaucoup* plus souvent dues à des faiblesses en calcul de niveau lycée ou L1 qu'à des lacunes de L2), je conseille très fortement de bosser [ce polycopié](https://colasbd.github.io/cdc/cahier_de_calcul_v11.pdf).
+Faites-le vraiment, par exemple en l'imprimant et en écrivant les résultats des calculs dessus, puis en vous auto-évaluant. Ce cahier est destiné aux élèves de première année de prépa, pour être complété tout au long de la première année. Il vous permettra, à l'orée de votre entrée en L3, de vérifier votre solidité sur les concepts appris durant l'année de L1 et de prendre du recul dessus.
 
 
 Calendrier prévisionnel
 -----------------------
 
-[Calendrier prévisionnel](cal-2022-2023v0.png) (les semaines de cours, de partiel (non fixé dans le marbre), d'examens, les vacances, le début du S6 etc)
+[Calendrier prévisionnel](cal-2022-2023v0.png) (les semaines de cours, de partiel (non définitif), d'examens, les vacances, le début du S6 etc)
 
 Les cours commencent immédiatement après la réunion de rentrée, les TD la semaine suivante, lorsque les groupes de TD seront formés.
 
@@ -90,7 +92,8 @@ Les cours commencent immédiatement après la réunion de rentrée, les TD la se
 Modalités du contrôle des connaissances (examens)
 ---------------------------------------
 
-Les informations seront données à la réuion de rentrée.
+Les informations seront données à la réunion de rentrée.
+
 ATTENTION, nous quittons le mode "contrôle continu intégral", ce qui signifie la disparition des épreuves de "seconde chance" et le retour des examens de seconde session. 
 
 AJAC
@@ -102,9 +105,7 @@ Si vous voyez que c'est trop difficile, ou simplement si vus avez des doutes ou 
 AED
 ---
 
-Si vous êtes AED, vous avez la possibilité, de prendre des options spéciales EAP3 et EAP4 à la place des options normales. Plus d'informations à la réunion de rentrée.
-
-Plus d'informations à la rentrée, en particulier sur le choix du master, l'obligation de démissioner d'AED dans certains etc.
+Si vous êtes AED, vous avez la possibilité de prendre des options spéciales EAP3 et EAP4 à la place des options normales. Plus d'informations à la réunion de rentrée.
 
 
 Le stage
