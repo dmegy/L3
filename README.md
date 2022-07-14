@@ -38,16 +38,18 @@ Dans tous les cas, quelle que soit la voie d'inscription administrative, il est 
 Parcours ME et MA
 -----------------
 
-Deux parcours sont possibles en L3 : le parcours ME (maths et enseignement, qui va essentiellement vers un master MEEF et la préparation du CAPES), et le parcours MA (maths et applications, qui va vers tout le reste, donc M1 MFA (maths fondamentales et applications), M1 IMSD (notre master de maths appli), prépa agreg (après un M1 MFA), recherche, enseignement dans le supérieur etc).
+Deux parcours sont possibles en L3 : le parcours ME (maths et enseignement), et le parcours MA (maths et applications).
 
 Plus d'informations seront données à la réunion de rentrée. Arbre de décision partiel et simplifié:
 - projet clair de faire le CAPES -> ME
-- projet clair de ne pas faire le CAPES (par exemple de faire l'agreg) -> MA
-- hésitation entre capes et agreg -> contactez-moi lors de la réunion de rentrée, mais a priori MA
-- autre hésitation -> à discuter lors de la réunin de rentrée, a priori MA
+- projet clair de ne pas faire le CAPES (par exemple de faire l'agreg) -> MA 
+- projet d'enseigner mais hésitation entre capes et agreg -> contactez-moi lors de la réunion de rentrée, mais a priori MA
+- autre hésitation, réorientation, double licence etc -> à discuter lors de la réunion de rentrée.
 
 Il est **possible de changer de parcours lors de la réuion de rentrée**, même si vous avez déjà effectué votre inscription.
 Il est aussi **possible de changer après un semestre**, ça peut sauver l'année mais ça ne marche tout de même pas très bien, bref ça doit rester une exception.
+
+IMPORTANT : dans les deux cas, **le diplôme de licence est le même**, choisir tel parcours plutôt que tel autre ne change pas la valeur du diplôme ou quoi que ce soit, vous aurez une licence de mathématiques. Ce qui ne veut pas dire que le choix n'est pas important (comme pour les options, mais beaucoup plus).
 
 Options
 -------
@@ -82,7 +84,7 @@ Attention, il n'y a quasiment pas d'algèbre et pas de géométrie. En théorie,
 Calendrier prévisionnel
 -----------------------
 
-[Calendrier prévisionnel](cal-2022-2023v0.png)
+[Calendrier prévisionnel](cal-2022-2023v0.png) (les semaines de cours, de partiel (non fixé dans le marbre), d'examens, les vacances, le début du S6 etc)
 
 Les cours commencent immédiatement après la réunion de rentrée, les TD la semaine suivante, lorsque les groupes de TD seront formés.
 
@@ -103,6 +105,8 @@ AED
 ---
 
 Si vous êtes AED, vous avez la possibilité, de prendre des options spéciales EAP3 et EAP4 à la place des options normales. Plus d'informations à la réunion de rentrée.
+
+Plus d'informations à la rentrée, en particulier sur le choix du master, l'obligation de démissioner d'AED dans certains etc.
 
 
 
