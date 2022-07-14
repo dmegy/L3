@@ -121,9 +121,12 @@ Plus d'informations à la réuion de rentrée. Attention, il faut s'y prendre à
 Débouchés (dont concours)
 --------------------------
 
-Plusieurs concours sont ouverts aux étudiants de L3 (ENS Lyon, ENS Saclay et Rennes, écoles d'ingénieur, école polytechnique) et nous avons d'assez bons résultats. Je vous encourage à ne surtout pas vous censurer là-dessus.
+Plusieurs concours sont ouverts aux étudiants de L3 (ENS Lyon, ENS Saclay et Rennes, école polytechnique, autres écoles d'ingénieur).
 
-Nous préférons bien sûr garder nos meilleurs étudiants dans nos masters et nos prépa capes et agreg (qui marchent bien), mais les étudiants qui réussissent des concours sont toujours une source de fierté pour l'équipe pédagogique.
+Je vous encourage à ne surtout pas vous censurer là-dessus :  nous commençons à avoir pas mal d'admissions dans des écoles prestigieuses (École polytechnique, ENS Lyon, Centrale-Supélec et beaucoup d'autres). En particulier, les étudiants de CUPGE intègrent en général de bien meilleures écoles en fin de L3 qu'en fin de L2.
+
+Bien sûr, nous préférerions garder nos étudiants dans nos masters et nos prépa capes et agreg (qui tournent bien), mais les étudiants qui réussissent des concours sont toujours une source de fierté pour l'équipe pédagogique. Certains reviennent parfois pour faire une thèse à l'IECL.
+
 
 Plus d'informations sur les concours à la réunion de rentrée et tout au long de l'année.
 
