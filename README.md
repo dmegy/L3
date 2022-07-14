@@ -1,7 +1,7 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
-Cette page sera mise à jour pendant l'été. Revenez de temps en temps, par exemple pour voir si des enseignants de S6 n'ont pas rajouté des conseils de révisions en plus des miens.
+Cette page sera mise à jour pendant l'été. Revenez de temps en temps, par exemple pour voir si des enseignants de S5 n'ont pas rajouté des conseils de révisions en plus des miens.
 
 Table des matières de cette page:
 ---------------------------------
@@ -16,6 +16,7 @@ Table des matières de cette page:
 - Étudiant(e)s AJAC
 - Étudiant(e)s AED
 - le stage (!)
+- Débouchés (dont concours)
 
 
 
@@ -72,7 +73,9 @@ Il est important d'essayer de combler ces lacunes le plus vite possible, idéale
 
 Le conseil le plus simple à suivre est de travailler en profondeur le [polycopié d'exercices du concours CCP](https://www.concours-commun-inp.fr/_attachment/nouvel-accordeon-2/banque%20finale%20sans%20corr%2022-V2.pdf?download=true) (Vous pouvez trouver une version avec corrigés facilement en cherchant sur le net).
 
-Attention, il n'y a quasiment pas d'algèbre et pas de géométrie. En théorie, tout étudiant de L2 doit pouvoir faire ces exercices. Si le travail sur ce polycopié met en lumière des lacunes, il est conseillé de retravailler son cours et de faire plus d'exercices (il y en a des milliers sur [exo7](http://exo7.emath.fr/search.php).)
+Attention, il n'y a quasiment pas d'algèbre et pas de géométrie. En théorie, tout étudiant de L2 doit pouvoir faire ces exercices, qui ne sont pas spécialement difficiles et qui testent les compétences de base. Si le travail sur ce polycopié met en lumière des lacunes, il est conseillé de retravailler son cours et de faire plus d'exercices (il y en a des milliers sur [exo7](http://exo7.emath.fr/search.php).)
+
+Si vous cherchez des exercices (ou problèmes d'écrit) un peu plus difficiles, vous pouvez regarder ma page de [préparation au second concours de l'ENS Lyon](http://dmegy.perso.math.cnrs.fr/2ndconcours/).
 
 
 
@@ -112,6 +115,17 @@ Pour valider sa licence, il est nécessaire de valider un stage. Normalement, vo
 - Sinon, vous devez faire un stage (avec convention de stage signée par l'UL) d'une durée de 3 semaines, puis présenter un rapport de stage. Un stage en établissement scolaire est possible, dans ce cas la durée nécessaire est réduite.
 
 Plus d'informations à la réuion de rentrée. Attention, il faut s'y prendre à temps !!
+
+
+Débouchés (dont concours)
+--------------------------
+
+Plusieurs concours sont ouverts aux étudiants de L3 (ENS Lyon, ENS Saclay et Rennes, écoles d'ingénieur, école polytechnique) et nous avons d'assez bons résultats. Je vous encourage à ne surtout pas vous censurer là-dessus.
+
+Nous préférons bien sûr garder nos meilleurs étudiants dans nos masters et nos prépa capes et agreg (qui marchent bien), mais les étudiants qui réussissent des concours sont toujours une source de fierté pour l'équipe pédagogique.
+
+Plus d'informations sur les concours à la réunion de rentrée et tout au long de l'année.
+
 
 
 
