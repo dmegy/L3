@@ -32,7 +32,7 @@ Les étudiantes et étudiants qui ne sont pas pris de droit (L2 validé, ou AJAC
 
 Pour les autres, il est nécessaire de s'inscrire administrativement sur le site de la FST.
 
-Dans tous les cas, quelle que soit la voie d'inscription administrative, il est *nécessaire* de s'inscrire pédagogiquement (choix du parcours, des options), autrement vous ne serez pas placés dans des groupes de CM ou de TD et vous n'existerez virtuellement pas dans le système de la scolarité.
+Dans tous les cas, quelle que soit la voie d'inscription administrative, il est *nécessaire* de s'inscrire pédagogiquement (choix du parcours, des options), autrement vous ne serez pas placés dans des groupes de CM ou de TD et vous n'existerez virtuellement pas dans le système de la scolarité. L'inscription pédagogique se fait lors de la réunion de rentrée.
 
 
 Parcours ME et MA
@@ -43,18 +43,18 @@ Deux parcours sont possibles en L3 : le parcours ME (maths et enseignement, qui 
 Plus d'informations seront données à la réunion de rentrée. Arbre de décision partiel et simplifié:
 - projet clair de faire le CAPES -> ME
 - projet clair de ne pas faire le CAPES (par exemple de faire l'agreg) -> MA
-- hésitation entre capes et agreg -> contactez-moi, mais a priori MA
-- autre hésitation -> 
+- hésitation entre capes et agreg -> contactez-moi lors de la réunion de rentrée, mais a priori MA
+- autre hésitation -> à discuter lors de la réunin de rentrée, a priori MA
 
-Il est possible de changer de parcours lors de la réuion de rentrée, même si vous avez déjà effectué votre inscription.
-Il est aussi possible de changer après un semestre, ça peut sauver l'année mais ça ne marche tout de même pas très bien, bref ça doit rester une exception.
+Il est **possible de changer de parcours lors de la réuion de rentrée**, même si vous avez déjà effectué votre inscription.
+Il est aussi **possible de changer après un semestre**, ça peut sauver l'année mais ça ne marche tout de même pas très bien, bref ça doit rester une exception.
 
 Options
 -------
 
 Voir la réunion de rentrée. En parcours MA, il va y avoir deux options : calcul formel, et Analyse numérique 1. Idéalement, il faudrait que les effectifs soient un peu équilibrés. 
 
-Le choix est libre mais pour ceux ayant un projet clair de faire IMSD il est peut-être un peu plus conseillé de faire analyse numérique 1 (et de faire ananum2 en S6), et pour ceux voulant faire MFA puis agreg il est peut-être plus conseillé de faire calcul formel (puis géométrie en S6, qui contient ce qu'il y a au programme d'agreg qui n'a pas encore été fait en L2, ou fait différemment).
+Le choix est libre mais pour ceux ayant un projet clair de faire IMSD il est peut-être un peu plus conseillé de faire analyse numérique 1 (et de faire ananum2 en S6), et pour ceux voulant faire MFA puis agreg il est peut-être plus conseillé de faire calcul formel (puis géométrie en S6, qui contient ce qu'il y a au programme d'agreg qui n'a pas encore été fait en L2, ou fait différemment). Mais ce n'est pas obligatoire et les préférences personnelles comptent autant.
 
 À la réunion de rentrée, vous devrez remplir une fiche, avec votre choix, et une case "choix indifférent" pour ceux ne sachant pas et voulant discuter plus longuement avec moi pour se faire un avis.
 
@@ -65,13 +65,13 @@ Pour valider sa licence, il est nécessaire de valider un stage. Normalement, vo
 - Si vous avez travaillé l'équivalent de 100h, ceci peut être directement validé comme stage.
 - Sinon, vous devez faire un stage (avec convention de stage signée par l'UL) d'une durée de 3 semaines, puis présenter un rapport de stage. Un stage en établissement scolaire est possible, dans ce cas la durée nécessaire est réduite.
 
-Plus d'informations à la réuion de rentrée.
+Plus d'informations à la réuion de rentrée. Attention, il faut s'y prendre à temps !!
 
 Préparer sa rentrée, révisions
 ------------------------------
 
 Avoir validé une L2, ce n'est bien sûr pas maîtriser tout le programme de L2 : c'est simplement avoir le niveau global suffisant pour avoir sa place en L3, mais il est normal qu'il reste des lacunes, parfois en quantité importante.
-Il est important d'essayer de combler ces lacunes le plus vite possible, idéalement avant la rentrée, car l'année de L3 commence assez fort, avec des choses assez nouvelles mais qui demandent la maîtrise des concepts précédents. Par exemple, le cours d'intégration introduit des concepts vraiment nouveaux, mais il faut être au point sur l'analyse de L2 (suites et séries de fonctions, séries entières, interversions, intégrales à paramètres, intégrales impropres etc).
+Il est important d'essayer de combler ces lacunes le plus vite possible, idéalement avant la rentrée, car l'année de L3 commence assez fort, avec des choses assez nouvelles mais qui demandent la maîtrise des concepts précédents. Par exemple, le cours d'intégration introduit des concepts vraiment nouveaux, mais il faut être au point sur l'analyse de L2 (suites et séries de fonctions, séries entières, interversions, intégrales à paramètres, intégrales impropres etc). Le cours de topologie (pour les MA) va développer la théorie des espaces vectoriels normés. Là aussi, il est conseillé de maîtriser la topologie de niveau L2, mais aussi l'analyse car de nombreux EVN sont des espaces de fonctions donc les techniques qui interviennent sont souvent des techniques sur les suites de fonctions.
 
 Le conseil le plus simple à suivre est de travailler en profondeur le [polycopié d'exercices du concours CCP](https://www.concours-commun-inp.fr/_attachment/nouvel-accordeon-2/banque%20finale%20sans%20corr%2022-V2.pdf?download=true) (Vous pouvez trouver une version avec corrigés facilement en cherchant sur le net).
 
@@ -82,7 +82,8 @@ Attention, il n'y a quasiment pas d'algèbre et pas de géométrie. En théorie,
 Calendrier prévisionnel
 -----------------------
 
-Le calendrier *prévisionnel* est [ici](cal-22-23v0.png).
+[Calendrier prévisionnel](cal-2022-2023v0.png)
+
 Les cours commencent immédiatement après la réunion de rentrée, les TD la semaine suivante, lorsque les groupes de TD seront formés.
 
 
