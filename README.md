@@ -31,11 +31,13 @@ Il est nécessaire de venir à cette réunion pour procéder à l'inscription p�
 Calendrier d'inscription
 ------------------------
 
-Les étudiantes et étudiants qui ne sont pas pris de droit (L2 validé, ou AJAC, ou redoublants L3) doivent déposer leur candidature sur la plateforme e-candidat. La procédure est normalement terminée mais la plateforme sera à nouveau ouverte fin aout jusqu'au 10 septembre approximativement, pour les retardataires.
+Dernières nouvelles (30 août) : 
 
-Pour les autres, il est nécessaire de s'inscrire administrativement sur le site de la FST.
+Tout le monde doit s'inscrire administrativement le plus vite possible.
 
-Dans tous les cas, quelle que soit la voie d'inscription administrative, il est *nécessaire* de s'inscrire pédagogiquement (choix du parcours, des options), autrement vous ne serez pas placés dans des groupes de CM ou de TD et vous n'existerez virtuellement pas dans le système de la scolarité. L'inscription pédagogique se fait lors de la réunion de rentrée.
+La plateforme e-candidat est à nouveau ouverte, pour ceux qui doivent passer par cette procédure.
+
+L'inscription administrative est un préalable à l'inscription pédagogique, qui elle-même est indispensable pour être placé dans un groupe, choisir son option, avoir son emploi du temps etc.
 
 
 Parcours ME et MA
