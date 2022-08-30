@@ -1,7 +1,7 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
-Cette page sera mise à jour pendant l'été. Revenez de temps en temps, par exemple pour voir si des enseignants de S5 n'ont pas rajouté des conseils de révisions en plus des miens.
+(Page mise à jour le 30 août.)
 
 Table des matières de cette page:
 ---------------------------------
