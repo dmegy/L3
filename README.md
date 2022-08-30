@@ -23,7 +23,7 @@ Table des matières de cette page:
 Infos sur la réunion de rentrée
 --------------------------------
 
-La réunion de rentrée au lieu le jeudi 1er septembre au matin, après la réunion de rentrée des L2, dans les amphis du premier cycle (heure précise et amphi précis ajouté ici dès que possible).
+La réunion de rentrée au lieu le **jeudi 1er septembre à 11h30 en amphi 14**. (Juste après la réunion de rentrée des L2)
 Au cours de cette réunion, je donnerai plus d'infos sur tous les sujets abordés ici très rapidement.
 
 Il est nécessaire de venir à cette réunion pour procéder à l'inscription pédagogique, autrement vous ne pourrez pas être placé dans vos groupes, choisir vos options etc. Le choix d'option doit se faire impérativement le 1er septembre (ou le 2), pour que les TD commencent le 5 septembre.
