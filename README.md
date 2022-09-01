@@ -1,7 +1,13 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
-(Page mise à jour le 30 août.)
+
+IMPORTANT ; le cours de topologie (MA) de ce jeudi 14h a lieu en salle 210 (bâtiment second cycle).
+
+Cours du vendredi 2 sept : 
+- 8h intégration et probas en amphi 14
+- 10h15 algèbre2 en amphi VG4
+- 14h  : CM d'options
 
 Table des matières de cette page:
 ---------------------------------
