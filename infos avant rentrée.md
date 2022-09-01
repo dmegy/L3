@@ -1,20 +1,75 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
-Les groupes d'options ont été créés, vous devriez voir vos options.
 
 IMPORTANT ; le cours de topologie (MA) de ce jeudi 14h a lieu en salle 210 (bâtiment second cycle).
 
 Cours du vendredi 2 sept : 
 - 8h intégration et probas en amphi 14
 - 10h15 algèbre2 en amphi VG4
-- 14h-17h : CM d'analyse numérique (les ME et les MA calcul formel n'ont rien)
+- 14h  : CM d'options
 
-Semaine prochaine:
-- lundi 8h : intégration & probas en amphi VG7
-- mardi 8h : algo pour l'enseignement pour les ME en VG305 et rien pour les MA
-- mardi 10h15 : algèbre2 pour tout le monde en VG4
-- mardi après-midi : options
+Table des matières de cette page:
+---------------------------------
+
+- infos sur la réunion de rentrée et la première semaine de cours (1er sept 2022)
+- calendrier d'inscription (par ex. sur e-candidat)
+- Les différent parcours (MA et ME) et leurs débouchés
+- les différentes options
+- Comment préparer son entrée en L3 (révisions conseillées, livres, polys)
+- le calendrier prévisionnel de l'année universitaire 2022-2023
+- modalités du contrôle de connaissance
+- Étudiant(e)s AJAC
+- Étudiant(e)s AED
+- le stage (!)
+- Débouchés (dont concours)
+
+
+
+Infos sur la réunion de rentrée
+--------------------------------
+
+La réunion de rentrée au lieu le **jeudi 1er septembre à 11h30 en amphi 14**. (Juste après la réunion de rentrée des L2)
+Au cours de cette réunion, je donnerai plus d'infos sur tous les sujets abordés ici très rapidement.
+
+Il est nécessaire de venir à cette réunion pour procéder à l'inscription pédagogique, autrement vous ne pourrez pas être placé dans vos groupes, choisir vos options etc. Le choix d'option doit se faire impérativement le 1er septembre (ou le 2), pour que les TD commencent le 5 septembre.
+
+Calendrier d'inscription
+------------------------
+
+Dernières nouvelles (30 août) : 
+
+Tout le monde doit s'inscrire administrativement le plus vite possible.
+
+La plateforme e-candidat est à nouveau ouverte, pour ceux qui doivent passer par cette procédure.
+
+L'inscription administrative est un préalable à l'inscription pédagogique, qui elle-même est indispensable pour être placé dans un groupe, choisir son option, avoir son emploi du temps etc.
+
+
+Parcours ME et MA
+-----------------
+
+Deux parcours sont possibles en L3 : le parcours ME (maths et enseignement), et le parcours MA (maths et applications).
+
+Plus d'informations seront données à la réunion de rentrée. Arbre de décision partiel et simplifié:
+- projet clair de faire le CAPES -> ME
+- projet clair de ne pas faire le CAPES (par exemple de faire l'agreg) -> MA 
+- projet d'enseigner mais hésitation entre capes et agreg -> contactez-moi lors de la réunion de rentrée, mais a priori MA
+- autre hésitation, réorientation, double licence etc -> à discuter lors de la réunion de rentrée.
+
+Il est **possible de changer de parcours lors de la réuion de rentrée**, même si vous avez déjà effectué votre inscription.
+Il est aussi **possible de changer après un semestre**, ça peut sauver l'année mais ça ne marche tout de même pas très bien, bref ça doit rester une exception.
+
+IMPORTANT : dans les deux cas, **le diplôme de licence est le même**, choisir tel parcours plutôt que tel autre ne change pas la valeur du diplôme ou quoi que ce soit, vous aurez une licence de mathématiques. Ce qui ne veut pas dire que le choix n'est pas important (comme pour les options, mais beaucoup plus).
+
+Options
+-------
+
+Voir la réunion de rentrée. En parcours MA, il va y avoir deux options : calcul formel, et Analyse numérique 1. Idéalement, il faudrait que les effectifs soient un peu équilibrés. 
+
+Le choix est libre mais les projets d'études ultérieures (plutôt MFA puis agreg, ou plutôt IMSD) peuvent orienter le choix vers l'une ou l'autre des options.
+
+À la réunion de rentrée, vous devrez remplir une fiche, avec votre choix, et une case "choix indifférent" pour ceux ne sachant pas et voulant discuter plus longuement avec moi pour se faire un avis.
 
 
 
@@ -45,9 +100,20 @@ Les cours commencent immédiatement après la réunion de rentrée, les TD la se
 Modalités du contrôle des connaissances (examens)
 ---------------------------------------
 
+Les informations seront données à la réunion de rentrée.
+
 ATTENTION, nous quittons le mode "contrôle continu intégral", ce qui signifie la disparition des épreuves de "seconde chance" et le retour des examens de seconde session. 
 
-Les MCC ont été ajoutées à cette page au format pdf (voir plus haut). Elles sont susceptibles d'êtres modifiées en cours d'année mais c'est rare.
+AJAC
+----
+
+Si vous êtes AJAC, la *priorité absolue* est de valider votre L2. Les cours de L3 ne doivent pas être prioritaires sur votre L2. Les emplois du temps ne pourront en général pas être adaptés, mais s'i vous reste peu d'UE de L2 à valider, il est parfaitement possible de tout valider et de réussir à valider sa L2 et sa L3 à la fin de l'année. Bon courage.
+Si vous voyez que c'est trop difficile, ou simplement si vus avez des doutes ou des questions, contactez-moi pour un rendez-vous
+
+AED
+---
+
+Si vous êtes AED, vous avez la possibilité de prendre des options spéciales EAP3 et EAP4 à la place des options normales. Plus d'informations à la réunion de rentrée.
 
 
 Le stage
@@ -55,7 +121,7 @@ Le stage
 
 Pour valider sa licence, il est nécessaire de valider un stage. Normalement, vous êtes au courant, vous avez été encouragés à faire votre stage avant l'année de L3 (car pendant la L3 il est difficile de trouver le temps).
 - Si vous avez travaillé l'équivalent de 100h, ceci peut être directement validé comme stage.
-- Sinon, vous devez faire un stage (avec convention de stage signée par l'UL) d'une durée de 3 semaines, puis présenter un rapport de stage. Un stage en établissement scolaire est possible, dans ce cas la durée nécessaire est réduite, en général à deux semaines.
+- Sinon, vous devez faire un stage (avec convention de stage signée par l'UL) d'une durée de 3 semaines, puis présenter un rapport de stage. Un stage en établissement scolaire est possible, dans ce cas la durée nécessaire est réduite.
 
 Plus d'informations à la réuion de rentrée. Attention, il faut s'y prendre à temps !!
 
