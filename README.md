@@ -1,21 +1,17 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
-Les groupes d'options ont été créés, vous devriez voir vos options.
 
-IMPORTANT ; le cours de topologie (MA) de ce jeudi 14h a lieu en salle 210 (bâtiment second cycle).
 
-Cours du vendredi 2 sept : 
-- 8h intégration et probas en amphi 14
-- 10h15 algèbre2 en amphi VG4
-- 14h-17h : CM d'analyse numérique (les ME et les MA calcul formel n'ont rien)
+Semaine de la recherche, 6 octobre
+---------------------------------
 
-Semaine prochaine:
-- lundi 8h : intégration & probas en amphi VG7
-- mardi 8h : algo pour l'enseignement pour les ME en VG305 et rien pour les MA
-- mardi 10h15 : algèbre2 pour tout le monde en VG4
-- mardi après-midi : options
+Il y a des activités prévues le 6 octobre pour la semaine de la recherche. Vous allez recevoir des informations officielles. oici ce qui risque de vous intéresser en priorité :
 
+- 15h00 : Un exposé de maths fait pour vous, par Samuel Tapie, professeur à l'IECL en géométrie différentielle. Vivement recommandé, ça devrait êrte très bien
+- 16h00 : Une visite de la bibliothèque de l'IECL, des discussions avec les doctorantsde maths de l'IECL, et un pot.
+
+Il y a d'autres activités, auquelles je vous conseille bien sûr d'assister, mais elles sont peut-être moins ciblées exclusivement pour les maths.
 
 
 Préparer sa rentrée, révisions
