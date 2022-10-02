@@ -3,6 +3,25 @@ Page d'information sur la L3 Maths à Nancy
 
 
 
+Partiels
+--------
+
+Les partiels auront lieu la semaine du 7 novembre, comme indiqué depuis le début de l'année dans le calendrier disponible ici. Pour plus d'infos sur les MCC, consulter le document "MCC", également disponible depuis le début de l'année. Attention, les durées affichées des épreuves sont des minimums légaux qui datent de la période covid, les durées réelles sont supérieures.
+
+
+Stages
+------
+
+Le responsable des stages est Khalid Koufany. Pour toute question, veuillez le contacter directement. Néamoins, voici quelques informations provisoires (pouvant être modifiées/infirmées par K. Koufany si besoin):
+
+- Tout d'abord, si vous avez travaillé l'équivalent de 3 semaines, donc d'une centaine d'heures, et que vous pouvez le prouver (contrat, fiches de paye), **après accord du resonsable des stages, ceci valide le stage, sans besoin de convention**. Le domaine dans lequel vous avez travaillé n'a pas besoin d'être relié aux mathématiques.
+
+- Dans les autres cas : **il faudra une convention**. Celle-ci doit être au préalable être signée par l’établissement/entreprise, par le tuteur et par l’étudiant avant d’être envoyée à Mme Gerondi au moins deux semaines avant le début du stage. Le stage peut se faire en entreprise, en établissement scolaire, ou exceptionnellement en laboratoire de recherche. Attention, pour pouvoir faire une convention, le stage doit se dérouler pendant l'ouverture de l'université. La durée dépend du type de stage :
+   - En entreprise : la durée doit être de trois semaines minimum. Le stage peut être scindé en plusieurs périodes.
+   - En établissement scolaire : la durée est réduite à deux semaines, qui peuvent là aussi être scindées en plusieurs périodes.
+   - En laboratoire de recherche (de maths ou autre) : ce choix demande plus de travail et est réservé aux étudiantes et étudiants ayant une forte motivation. La durée est susceptible de dépasser  trois semaines de travail, mais sera sans doute assez flexible. Vous devez trouver un ou une collègue qui accepte de vous encadrer. Prenez-vous y tôt car nous sommes *très* sollicités pour encadrer énormément de stages (en général bénévolement).
+
+
 Semaine de la recherche, 6 octobre
 ---------------------------------
 
