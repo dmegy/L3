@@ -2,11 +2,10 @@ Page d'information sur la L3 Maths à Nancy
 ==========================================
 
 
+Calendrier second semestre
+------
 
-Partiels
---------
-
-Les partiels auront lieu la semaine du 7 novembre, comme indiqué depuis le début de l'année dans le calendrier disponible ici. Pour plus d'infos sur les MCC, consulter le document "MCC", également disponible depuis le début de l'année. Attention, les durées affichées des épreuves sont des minimums légaux qui datent de la période covid, les durées réelles sont supérieures.
+Le calendrier du second semestre a été ajouté sur cette page, c'est le fichier png "calendrier-S6-2022-2023.png".
 
 
 Stages
