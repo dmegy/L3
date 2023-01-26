@@ -11,7 +11,8 @@ Le calendrier du second semestre a été ajouté sur cette page, c'est le fichie
 Stages
 ------
 
-Le responsable des stages est Khalid Koufany. Pour toute question, veuillez le contacter directement. Néamoins, voici quelques informations provisoires (pouvant être modifiées/infirmées par K. Koufany si besoin):
+Le responsable des stages est Khalid Koufany. Pour toute question, veuillez le contacter directement, mais *auparavant*, veuillez consulter sa page d'informations [https://arche.univ-lorraine.fr/course/view.php?id=50446](https://arche.univ-lorraine.fr/course/view.php?id=50446). Il faudra rendre les rapports de stage vers le 15 mai.
+Voici quelques informations provisoires (en cas de conflit avec les informations de K. Koufany, ce sont les siennes qui seront valides):
 
 - Tout d'abord, si vous avez travaillé l'équivalent de 3 semaines, donc d'une centaine d'heures, et que vous pouvez le prouver (contrat, fiches de paye), **après accord du resonsable des stages, ceci valide le stage, sans besoin de convention**. Le domaine dans lequel vous avez travaillé n'a pas besoin d'être relié aux mathématiques.
 
