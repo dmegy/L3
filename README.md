@@ -1,6 +1,10 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
+Présentation de Master MEEF
+------
+Les slides de Nicole Bardy-Panse de la présentation de jeudi 9 mars sont en ligne ([pdf](Master-MEEF-LE-L3.pdf)).
+
 
 Calendrier second semestre
 ------
