@@ -16,11 +16,6 @@ Calendrier second semestre
 Le calendrier du second semestre a été ajouté sur cette page, c'est le fichier png [calendrier-S6-2022-2023.png](calendrier-S6-2022-2023.png).
 
 
-TIPE
-----
-
-Lien vers la [page d'informations sur le TIPE](TIPE.md).
-Cette page contient des informations générales et un document pdf contenant des conseils précis sur la rédaction du mémoire (comment il doit être structuré, erreurs à ne pas faire etc).
 
 Stages
 ------
