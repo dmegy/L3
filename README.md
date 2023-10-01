@@ -23,11 +23,20 @@ Le stage (attention!)
 
 - Tout d'abord, si vous avez travaillé l'équivalent de 3 semaines, c'est-à-dire plus de 100h, et que vous pouvez le prouver (contrat, fiches de paye), **après accord du responsable des stages (contactez-moi), ceci valide le stage, sans besoin de convention**. Le domaine dans lequel vous avez travaillé n'a pas besoin d'être relié aux mathématiques.
 
-- Dans les autres cas : **il faudra une convention**. Celle-ci doit être au préalable être 
+- Dans les autres cas : **il faudra une convention de stage**.
+
+La convention de stage
+----------------------
+
+La convention préremplie est ici: [convention_de_stage_2324.pdf](convention_de_stage_2324.pdf)
+
+Lorsqu'il faut une convention, elle doit être au préalable : 
 + remplie et signée par l'étudiant(e)
 + signée par l’établissement/entreprise, par le tuteur dans l'entreprise 
 
-Après quoi, elle doit être envoyée à Mme Gerondi **au moins deux semaines avant le début du stage**. Une convention remplie de manière incomplète, par exemple sans les coordonnées de l'entreprise, du tuteur dans l'entreprise, sans dates précises etc, ne sera pas signée par le doyen de la faculté. Une convention remplie trop tard à Mme Gérondi (=moins de deux semaines avant le début) a de grandes chances de ne pas pouvoir être signée par le doyen et retournée par les services centraux.
+Après quoi, elle doit être envoyée à Mme Gerondi **au moins deux semaines avant le début du stage**.
+
+Une convention remplie de manière incomplète, par exemple sans les coordonnées de l'entreprise, du tuteur dans l'entreprise, sans dates précises etc, ne sera pas signée par le doyen de la faculté. Une convention remplie trop tard à Mme Gérondi (=moins de deux semaines avant le début) a de grandes chances de ne pas pouvoir être signée par le doyen et retournée par les services centraux.
 
 Le stage peut se faire en entreprise, en établissement scolaire, ou exceptionnellement en laboratoire de recherche. **Attention**, pour pouvoir faire une convention, le stage doit se dérouler pendant l'ouverture de l'université, ce qui exclut certaines périodes de vacance (pas toutes heureusement, mais typiquement les vacances de Noël ou une partie des grandes vacances). Noter que les boulots d'été validés sur fiche de paye ne rentrent pas dans la case "besoin de convention" et n'ont pas cette contrainte de dates.
 
