@@ -21,9 +21,9 @@ Le stage (attention!)
 **Nouveau responsable des stages : Damien Mégy**
 
 
-- Tout d'abord, si vous avez travaillé l'équivalent de 3 semaines, c'est-à-dire plus de 100h, et que vous pouvez le prouver (contrat, fiches de paye), **après accord du responsable des stages (contactez-moi), ceci valide le stage, sans besoin de convention**. Le domaine dans lequel vous avez travaillé n'a pas besoin d'être relié aux mathématiques.
+- Tout d'abord, si vous avez travaillé l'équivalent de 3 semaines, c'est-à-dire plus de 100h, et que vous pouvez le prouver (contrat, fiches de paye), **après accord du responsable des stages (contactez-moi), ceci valide le stage, sans besoin de convention**. Le domaine dans lequel vous avez travaillé n'a pas besoin d'être relié aux mathématiques. Il faudra dans tous les cas rendre un rapport, voir plus bas.
 
-- Dans les autres cas : **il faudra une convention de stage**.
+- Dans les autres cas : **il remplir et faire signer une convention de stage AVANT (=plus de deux semaines avant) le stage**. À la fin, il faudra rendre une attestation de stage avec appréciation, ainsi qu'un rapport, voir plus bas.
 
 La convention de stage
 ----------------------
