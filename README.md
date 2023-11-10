@@ -25,7 +25,7 @@ Le stage (attention!)
 
 - Dans les autres cas : **il remplir et faire signer une convention de stage AVANT (=plus de deux semaines avant) le stage**. À la fin, il faudra rendre une attestation de stage avec appréciation, ainsi qu'un rapport, voir plus bas.
 
-La convention de stage (via l'application P-Stage *nouveau*)
+La convention de stage (via l'application P-Stage)
 ----------------------
 
 La convention n'est plus, comme auparavant, disponible sous forme papier/pdf ) imprimer et à fair remplir.
@@ -34,13 +34,13 @@ La convention n'est plus, comme auparavant, disponible sous forme papier/pdf ) i
 - [stages_notice_saisie_convention_de_stage_2023-2024.pdf](stages_notice_saisie_convention_de_stage_2023-2024.pdf)
 - [stages_tuto_etudiant_creer_une_convention.pdf](stages_tuto_etudiant_creer_une_convention.pdf)
 
+Recommandation : remplir d'abord le document "notice préparatoire à la saisie de la convention de stage" (le deuxième pdf), qui est une aide pour remplir le formulaire sur p-stage. Ce document ne doit pas nous être rendu, il s'agit d'une trame destinées à vous aider.
 
 
-Lorsqu'il faut une convention, elle doit être au préalable : 
-+ remplie et signée par l'étudiant(e)
-+ signée par l’établissement/entreprise, par le tuteur dans l'entreprise 
 
-Après quoi, elle doit être envoyée à Mme Gerondi **au moins trois semaines avant le début du stage**.
+La démarche via p-stage doit être faite largement avant le début du stage, **au moins trois semaines avant le début du stage**.
+
+La convention doit être validée par le centre gestionnaire et signée par toutes les parties dans l'application *p-stage* AVANT le début du stage.
 
 Une convention remplie de manière incomplète, par exemple sans les coordonnées de l'entreprise, du tuteur dans l'entreprise, sans dates précises etc, ne sera pas signée par le doyen de la faculté. Une convention remplie trop tard à Mme Gérondi (=moins de deux semaines avant le début) a de grandes chances de ne pas pouvoir être signée par le doyen et retournée par les services centraux.
 
