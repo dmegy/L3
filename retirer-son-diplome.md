@@ -1,6 +1,10 @@
 Comment retirer son diplôme
 ==========================
 
+Attention, à lire impérativement *avant* de passer à la scol pour ne pas perdre de temps :
+
+![Informations diplomes](assets/bureau_licences_masters.jpg "Bureau des licences et masters")
+
 Lorsque le diplôme est prêt à être retiré (en cours d'année suivant la L3), il y a plusieurs façons de le récupérer. Le diplôme peut être récupéré à la scolarité (par vous-même, ou par un proche disposant d'une procuration), ou bien envoyé par la poste en recommandé (après une demande soit par courrier, soit par email).
 
 Ces quatre procédures sont détaillées ci-dessous :
