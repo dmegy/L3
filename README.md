@@ -29,12 +29,13 @@ La convention de stage (via l'application P-Stage)
 ----------------------
 
 La convention n'est plus, comme auparavant, disponible sous forme papier/pdf ) imprimer et à fair remplir.
-À la place, il faut utiliser l'application p-stage. Vous avez les trois documents suivants (sur cette page) pour vous aider à utiliser cette application:
-- [stages_guide_utilisateur_pstage.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_guide_utilisateur_pstage.pdf)
+À la place, il faut utiliser l'application PStage (disponible sur l'ENT, voir le tutoriel ci-dessous). Vous avez les trois documents suivants (sur cette page) pour vous aider à utiliser cette application:
+
 - [stages_notice_saisie_convention_de_stage_2023-2024.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_notice_saisie_convention_de_stage_2023-2024.pdf)
 - [stages_tuto_etudiant_creer_une_convention.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_tuto_etudiant_creer_une_convention.pdf)
+- En cas de problème ou de question sur l'application PStage, consulter : [stages_guide_utilisateur_pstage.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_guide_utilisateur_pstage.pdf)
 
-Recommandation : remplir d'abord le document "notice préparatoire à la saisie de la convention de stage" (le deuxième pdf), qui est une aide pour remplir le formulaire sur p-stage. Ce document ne doit pas nous être rendu, il s'agit d'une trame destinée à vous aider.
+Recommandation : remplir d'abord le document "notice préparatoire à la saisie de la convention de stage" (le premier pdf), qui est une aide pour remplir le formulaire sur p-stage. Ce document ne doit pas nous être rendu, il s'agit d'une trame destinée à vous aider. 
 
 
 
