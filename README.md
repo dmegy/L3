@@ -101,7 +101,7 @@ Plus d'informations à la réunion de rentrée.
 
 
 
-Récupération de son diplôme, ou de relevé de notes
+Obtenir son diplôme, un relevé de notes, attestation de réussite etc.
 -------------------------------------------------
 Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
 

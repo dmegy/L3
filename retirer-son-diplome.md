@@ -1,4 +1,4 @@
-Comment retirer son diplôme ou obtenir un relevé de notes
+Comment retirer son diplôme, obtenir un relevé de notes ou une attestation de réussite
 ==========================
 
 Attention, à lire impérativement *avant* de passer à la scol pour ne pas perdre de temps :
