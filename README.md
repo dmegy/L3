@@ -1,4 +1,4 @@
-Page d'information sur la L3 Maths à Nancy
+Page d'information sur la L3 Maths à Nancy (et sur le stage)
 ==========================================
 
 
@@ -25,16 +25,22 @@ Le stage (attention!)
 
 - Dans les autres cas : **il remplir et faire signer une convention de stage AVANT (=plus de deux semaines avant) le stage**. À la fin, il faudra rendre une attestation de stage avec appréciation, ainsi qu'un rapport, voir plus bas.
 
-La convention de stage
+La convention de stage (via l'application P-Stage *nouveau*)
 ----------------------
 
-La convention préremplie est ici: [convention_de_stage_2324.pdf](convention_de_stage_2324.pdf)
+La convention n'est plus, comme auparavant, disponible sous forme papier/pdf ) imprimer et à fair remplir.
+À la place, il faut utiliser l'application p-stage. Vous avez les trois documents suivants (sur cette page) pour vous aider à utiliser cette application:
+- [stages_guide_utilisateur_pstage.pdf](stages_guide_utilisateur_pstage.pdf)
+- [stages_notice_saisie_convention_de_stage_2023-2024.pdf](stages_notice_saisie_convention_de_stage_2023-2024.pdf)
+- [stages_tuto_etudiant_creer_une_convention.pdf](stages_tuto_etudiant_creer_une_convention.pdf)
+
+
 
 Lorsqu'il faut une convention, elle doit être au préalable : 
 + remplie et signée par l'étudiant(e)
 + signée par l’établissement/entreprise, par le tuteur dans l'entreprise 
 
-Après quoi, elle doit être envoyée à Mme Gerondi **au moins deux semaines avant le début du stage**.
+Après quoi, elle doit être envoyée à Mme Gerondi **au moins trois semaines avant le début du stage**.
 
 Une convention remplie de manière incomplète, par exemple sans les coordonnées de l'entreprise, du tuteur dans l'entreprise, sans dates précises etc, ne sera pas signée par le doyen de la faculté. Une convention remplie trop tard à Mme Gérondi (=moins de deux semaines avant le début) a de grandes chances de ne pas pouvoir être signée par le doyen et retournée par les services centraux.
 
