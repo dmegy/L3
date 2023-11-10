@@ -101,9 +101,9 @@ Plus d'informations à la réunion de rentrée.
 
 
 
-Récupération de son diplôme
----------------------------
-Pour les anciens. Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
+Récupération de son diplôme, ou de relevé de notes
+-------------------------------------------------
+Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
 
 
 
