@@ -30,19 +30,18 @@ La convention de stage (via l'application P-Stage)
 
 La convention n'est plus, comme auparavant, disponible sous forme papier/pdf ) imprimer et à fair remplir.
 À la place, il faut utiliser l'application p-stage. Vous avez les trois documents suivants (sur cette page) pour vous aider à utiliser cette application:
-- [stages_guide_utilisateur_pstage.pdf](stages_guide_utilisateur_pstage.pdf)
-- [stages_notice_saisie_convention_de_stage_2023-2024.pdf](stages_notice_saisie_convention_de_stage_2023-2024.pdf)
-- [stages_tuto_etudiant_creer_une_convention.pdf](stages_tuto_etudiant_creer_une_convention.pdf)
+- [stages_guide_utilisateur_pstage.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_guide_utilisateur_pstage.pdf)
+- [stages_notice_saisie_convention_de_stage_2023-2024.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_notice_saisie_convention_de_stage_2023-2024.pdf)
+- [stages_tuto_etudiant_creer_une_convention.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_tuto_etudiant_creer_une_convention.pdf)
 
-Recommandation : remplir d'abord le document "notice préparatoire à la saisie de la convention de stage" (le deuxième pdf), qui est une aide pour remplir le formulaire sur p-stage. Ce document ne doit pas nous être rendu, il s'agit d'une trame destinées à vous aider.
+Recommandation : remplir d'abord le document "notice préparatoire à la saisie de la convention de stage" (le deuxième pdf), qui est une aide pour remplir le formulaire sur p-stage. Ce document ne doit pas nous être rendu, il s'agit d'une trame destinée à vous aider.
 
 
 
-La démarche via p-stage doit être faite largement avant le début du stage, **au moins trois semaines avant le début du stage**.
+La démarche via p-stage doit être faite largement avant le début du stage, au moins trois semaines avant le début du stage.
 
-La convention doit être validée par le centre gestionnaire et signée par toutes les parties dans l'application *p-stage* AVANT le début du stage.
+**ATTENTION : La convention doit être validée par le centre gestionnaire et signée par toutes les parties dans l'application *p-stage* AVANT le début du stage.**
 
-Une convention remplie de manière incomplète, par exemple sans les coordonnées de l'entreprise, du tuteur dans l'entreprise, sans dates précises etc, ne sera pas signée par le doyen de la faculté. Une convention remplie trop tard à Mme Gérondi (=moins de deux semaines avant le début) a de grandes chances de ne pas pouvoir être signée par le doyen et retournée par les services centraux.
 
 Le stage peut se faire en entreprise, en établissement scolaire, ou exceptionnellement en laboratoire de recherche. **Attention**, pour pouvoir faire une convention, le stage doit se dérouler pendant l'ouverture de l'université, ce qui exclut certaines périodes de vacance (pas toutes heureusement, mais typiquement les vacances de Noël ou une partie des grandes vacances). Noter que les boulots d'été validés sur fiche de paye ne rentrent pas dans la case "besoin de convention" et n'ont pas cette contrainte de dates.
 
