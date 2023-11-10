@@ -40,7 +40,7 @@ Recommandation : remplir d'abord le document "notice préparatoire à la saisie 
 
 La démarche via p-stage doit être faite largement avant le début du stage, au moins trois semaines avant le début du stage.
 
-**ATTENTION : La convention doit être validée par le centre gestionnaire et signée par toutes les parties dans l'application *p-stage* AVANT le début du stage.**
+<ins>**ATTENTION : La convention doit être validée par le centre gestionnaire et signée par toutes les parties dans l'application *p-stage* AVANT le début du stage.**</ins>
 
 
 Le stage peut se faire en entreprise, en établissement scolaire, ou exceptionnellement en laboratoire de recherche. **Attention**, pour pouvoir faire une convention, le stage doit se dérouler pendant l'ouverture de l'université, ce qui exclut certaines périodes de vacance (pas toutes heureusement, mais typiquement les vacances de Noël ou une partie des grandes vacances). Noter que les boulots d'été validés sur fiche de paye ne rentrent pas dans la case "besoin de convention" et n'ont pas cette contrainte de dates.
