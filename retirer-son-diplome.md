@@ -13,8 +13,8 @@ Ces quatre procédures sont détaillées ci-dessous :
 Récupération en mains propres
 ---
  
-Vous pouvez venir retirer votre diplôme directement à la scolarité – Bureau Licences/Masters sur présentation d'une pièce d'identité.
-(Du lundi au vendredi de 13h00 à 16h30 ou le matin uniquement sur rdv)
+Si vous avez reçu une réponse du service de scolarité après les avoir contactés (voir plus haut), vous pouvez venir retirer votre diplôme directement à la scolarité – Bureau Licences/Masters sur présentation d'une pièce d'identité.
+(Aux horaires d'ouverture du service, uniquement sur rdv.)
 
 
 Procuration à une personne qui vient le récupérer
