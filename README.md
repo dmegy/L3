@@ -13,10 +13,6 @@ Table des matières de cette page :
 - les différentes options
 - Comment préparer son entrée en L3 (révisions conseillées, livres, polys)
 - le calendrier prévisionnel de l'année universitaire 2024-2025
-- La semaine de la recherche
-- modalités du contrôle de connaissance
-- Étudiant(e)s AJAC
-- Étudiant(e)s AED
 - le stage (!)
 
 
@@ -45,6 +41,8 @@ L'inscription administrative est un préalable à l'inscription pédagogique, qu
 
 Parcours ME et MA
 -----------------
+
+[petits changements cette année, lire attentivement]
 
 Deux parcours sont possibles en L3 : le parcours ME (maths et enseignement), et le parcours MA (maths et applications). Les deux parcours fournissent le même diplôme, une licence de mathématiques.
 
@@ -109,16 +107,7 @@ Calendrier prévisionnel
 
 Les cours reprennent le mercredi 5 septembre, les TD la semaine d'après. Les partiels auront lieu immédiatement après les vacances de la Toussaint. Les examens finaux du semestre 5 auront lieu à la rentrée de janvier.
 
-Semaine de la recherche
------------------------
-
-Informations à venir
-
-Modalités du contrôle des connaissances (examens)
----------------------------------------
-
-
-Le document contenant tous les coefficients de toutes les épreuves est disponible sur cette page : [MCC-2023-2024.pdf](MCC-2023-2024.pdf)
+Le calendrier du semestre est dan le document [calendrier-2024-2025.pdf](calendrier-2024-2025.pdf)
 
 
 
