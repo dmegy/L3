@@ -1,4 +1,4 @@
-Page d'information sur la L3 Maths à Nancy (et sur le stage)
+Page d'information sur la L3 Maths à Nancy
 ==========================================
 
 
@@ -7,76 +7,112 @@ Page d'information sur la L3 Maths à Nancy (et sur le stage)
 Table des matières de cette page :
 ----------------------------------
 
-- le stage (!)
-- le calendrier prévisionnel de l'année universitaire 2023-2024
+- infos sur la réunion de rentrée et la première semaine de cours (mardi 3 sept 2023)
+- calendrier d'inscription (par ex. sur e-candidat)
+- Les différent parcours (MA et ME) et leurs débouchés
+- les différentes options
+- Comment préparer son entrée en L3 (révisions conseillées, livres, polys)
+- le calendrier prévisionnel de l'année universitaire 2024-2025
+- La semaine de la recherche
 - modalités du contrôle de connaissance
 - Étudiant(e)s AJAC
 - Étudiant(e)s AED
-
-
-Le stage (attention!)
----------------------
-
-
-**Nouveau responsable des stages : Damien Mégy**
-
-
-- Tout d'abord, si vous avez travaillé l'équivalent de 3 semaines, c'est-à-dire plus de 100h, et que vous pouvez le prouver (contrat, fiches de paye), **après accord du responsable des stages (contactez-moi), ceci valide le stage, sans besoin de convention**. Le domaine dans lequel vous avez travaillé n'a pas besoin d'être relié aux mathématiques. Il faudra dans tous les cas rendre un rapport, voir plus bas.
-
-- Dans les autres cas : **il remplir et faire signer une convention de stage AVANT (=plus de deux semaines avant) le stage**. À la fin, il faudra rendre une attestation de stage avec appréciation, ainsi qu'un rapport, voir plus bas.
-
-La convention de stage (via l'application P-Stage)
-----------------------
-
-La convention n'est plus, comme auparavant, disponible sous forme papier/pdf ) imprimer et à fair remplir.
-À la place, il faut utiliser l'application PStage (disponible sur l'ENT, voir le tutoriel ci-dessous). Vous avez les trois documents suivants (sur cette page) pour vous aider à utiliser cette application:
-
-- [stages_notice_saisie_convention_de_stage_2023-2024.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_notice_saisie_convention_de_stage_2023-2024.pdf)
-- [stages_tuto_etudiant_creer_une_convention.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_tuto_etudiant_creer_une_convention.pdf)
-- En cas de problème ou de question sur l'application PStage, consulter : [stages_guide_utilisateur_pstage.pdf](https://raw.githubusercontent.com/dmegy/L3/main/stages_guide_utilisateur_pstage.pdf)
-
-Recommandation : remplir d'abord le document "notice préparatoire à la saisie de la convention de stage" (le premier pdf), qui est une aide pour remplir le formulaire sur p-stage. Ce document ne doit pas nous être rendu, il s'agit d'une trame destinée à vous aider. 
+- le stage (!)
 
 
 
-La démarche via p-stage doit être faite largement avant le début du stage, au moins trois semaines avant le début du stage.
 
-<ins>**ATTENTION : La convention doit être validée par le centre gestionnaire et signée par toutes les parties dans l'application *p-stage* AVANT le début du stage.**</ins>
+Infos sur la réunion de rentrée
+--------------------------------
 
+La réunion de rentrée au lieu le **mardi 3 septembre à 11h15 en amphi 16**. (Juste après la réunion de rentrée des L2)
+Au cours de cette réunion, je donnerai plus d'infos sur tous les sujets abordés ici très rapidement.
 
-Le stage peut se faire en entreprise, en établissement scolaire, ou exceptionnellement en laboratoire de recherche. **Attention**, pour pouvoir faire une convention, le stage doit se dérouler pendant l'ouverture de l'université, ce qui exclut certaines périodes de vacance (pas toutes heureusement, mais typiquement les vacances de Noël ou une partie des grandes vacances). Noter que les boulots d'été validés sur fiche de paye ne rentrent pas dans la case "besoin de convention" et n'ont pas cette contrainte de dates.
+Il est nécessaire de venir à cette réunion pour procéder à l'**inscription pédagogique**, autrement vous ne pourrez pas être placé dans vos groupes, choisir vos options etc. Le choix d'option doit se faire le plus vite possible, soit lors de la réunion de rentrée soit dans les jours qui suivent. 
 
-
-
- La durée dépend du type de stage :
-   - En entreprise : la durée doit être de **trois semaines minimum**. Le stage peut être scindé en plusieurs périodes.
-   - En établissement scolaire : la durée est réduite à **deux semaines**, qui peuvent là aussi être scindées en plusieurs périodes.
-   - En laboratoire de recherche (de maths ou autre) : ce choix demande plus de travail et est réservé aux étudiantes et étudiants ayant une forte motivation. La durée est susceptible de dépasser (largement) trois semaines de travail, mais sera sans doute assez flexible. Vous devez trouver un ou une collègue qui accepte de vous encadrer. Prenez-vous y tôt car nous sommes *très* sollicités pour encadrer énormément de stages (en général bénévolement).
-
-Les dates du stage
--------------------
-
-Comme il faut rendre le rapport le 15 mai, il faut que le stage ait eu lieu, au moins en majorité, à la date du 15 mai.
-
-Les documents à rendre pour valider l'UE "stage"
+Dates des premiers cours
 ------------------------
 
-Deux cas : 
+Les premiers cours auront lieu dès le jour suivant, mercredi 5 septembre après-midi, de 14h à 18h15.
 
-1) En cas de travail rémunéré, il faut les fiches de paye, et un rapport de stage écrit par l'étudiant(e).
+Calendrier d'inscription
+------------------------
 
-2) En cas de stage avec convention, il faut une attestation de stage avec appréciation, fourni par la structure d'accueil, et là aussi un rapport de stage écrit par l'étudiant(e).
+Les inscriptions administratives sont ouvertes et doivent être effectuées le plus vite possible, si possible *avant* la réunion de rentrée. La plateforme E-candidat est ouverte.
+
+L'inscription administrative est un préalable à l'inscription pédagogique, qui elle-même est indispensable pour être placé dans un groupe, choisir son option, avoir son emploi du temps etc.
 
 
-Le rapport de stage
--------------------
+Parcours ME et MA
+-----------------
 
-Dans tous les cas discutés ci-dessus, il faudra rendre un rapport de stage avant le 15 mai, sur une page de dépot spéciale sur Arche (le lien sera mis ici plus tard).
+Deux parcours sont possibles en L3 : le parcours ME (maths et enseignement), et le parcours MA (maths et applications). Les deux parcours fournissent le même diplôme, une licence de mathématiques.
 
-Il s'agit d'un document qui sera noté. La note compte dans la moyenne et il n'y a pas de système de seconde session pour le rapport de stage (vous ne pouvez pas être malade le jour de rendu, par exemple). Ne pas rendre de rapport provoque une défaillance à l'UE puis à l'année. Cette remarque est valable pour toutes les UE de type "rapport".
+Plus d'informations seront données à la réunion de rentrée. 
 
-Le rapport doit faire une quinzaine de pages, il sera noté sur le fond et la forme (bonus pour rapport tapé en latex). Il devra présenter la structure d'accueil, ainsi que votre activité dans ses différents aspects.
+Arbre de décision partiel et simplifié:
+- projet clair de faire le master MEEF et de passer le **CAPES** : parcours ME. Ce parcours est optimisé pour le Capes, plusieurs collègues qui y enseignent font également les cours en master MEEF et prépa Capes, voire en sont les responsables.
+- projet d'orientation en dehors des maths après la L3 : au choix, mais ME peut être une bonne idée, le diplôme étant le même. Le parcours MA, lui, a été conçu pour permettre ensuite d'encaisser le M1 MFA.
+- projet clair de faire un master de maths autre que MEEF (dont IMSD, MFA, passer l'agrégation...) : parcours MA. 
+- projet d'enseigner mais hésitation entre capes et agreg -> contactez-moi lors de la réunion de rentrée.
+- autre hésitation, réorientation, double licence etc -> à discuter lors de la réunion de rentrée.
 
+En simplifiant beaucoup, le parcours MA va être un sprint en direction du M1 MFA (ou IMSD), le parcours ME est une année de consolidation des connaissances et de travail sur vos lacunes en prévision du concours du CAPES.
+
+IMPORTANT : 
+
+Il est **possible de changer de parcours lors de la réuion de rentrée** (ou même avant en me contactant), même si vous avez déjà effectué votre inscription administrative et êtes déjà dans un parcours.
+
+!! CHANGEMENT PAR RAPPORT À L'ANNÉE DERNIÈRE !!
+
+Jusqu'à récemment, il était possible de changer de parcours en cours d'année. L'année dernière, alors que j'avais annoncé lors de la réunion de rentrée que c'était possible, le changement de parcours en cours d'année de deux étudiants a été bloqué.
+
+Dans les deux cas, **le diplôme de licence est le même**.
+
+Options
+-------
+
+Voir la réunion de rentrée. En parcours MA, il va y avoir deux options : Calcul formel, et Analyse numérique 1. Il faut que les effectifs soient un peu équilibrés. 
+
+Le choix est libre mais les projets d'études ultérieures peuvent orienter le choix vers l'une ou l'autre des options. En simplifiant, l'analyse numérique est conseillée si vous visez le master de maths appli IMSD, et pour le master MFA le choix du calcul formel est peut-être un peu plus naturel. 
+
+À la réunion de rentrée, vous devrez remplir une fiche, avec votre choix, et une case "choix indifférent" pour ceux ne sachant pas et voulant discuter plus longuement avec moi pour se faire un avis.
+
+En attendant, il vous est demandé de remplir le tableur suivant [https://lite.framacalc.org/for7iuhd5i-a9p2](https://lite.framacalc.org/for7iuhd5i-a9p2) avec l'option pressentie (ceci ne vous engage pas mais nous aidera à faire l'emploi du temps et les groupes plus rapidement).
+Si vous ne savez pas encore, mettez "hésite" ou quelque chose comme ça. Vous pouvez me contacter par mail avant la réunion de rentrée si vous le désirez.
+
+
+
+
+
+Préparer sa rentrée, révisions
+------------------------------
+
+Avoir validé une L2, ce n'est bien sûr pas maîtriser tout le programme de L2 : c'est simplement avoir le niveau global suffisant pour avoir sa place en L3, mais il est normal qu'il reste des lacunes, parfois en quantité importante.
+Il est important d'essayer de combler ces lacunes le plus vite possible, idéalement dès la rentrée (ou avant), car l'année de L3 commence assez fort, avec des choses assez nouvelles mais qui demandent la maîtrise des concepts précédents. Par exemple, le cours d'intégration introduit des concepts vraiment nouveaux, mais il faut être au point sur l'analyse de L2 (suites et séries de fonctions, séries entières, interversions, intégrales à paramètres, intégrales impropres etc). Le cours de topologie (pour les MA) va développer la théorie des espaces vectoriels normés. Là aussi, il est conseillé de maîtriser la topologie de niveau L2, mais aussi l'analyse car de nombreux EVN sont des espaces de fonctions donc les techniques qui interviennent sont souvent des techniques sur les suites de fonctions.
+
+Le conseil le plus simple à suivre est de travailler en profondeur le [polycopié d'exercices du concours CCP](https://www.concours-commun-inp.fr/_attachment/nouvel-accordeon-2/banque%20finale%20sans%20corr%2022-V2.pdf?download=true) (Vous pouvez trouver une version avec corrigés facilement en cherchant sur le net).
+
+Attention, il n'y a quasiment pas d'algèbre et pas de géométrie. En théorie, tout étudiant de L2 doit pouvoir faire ces exercices, qui ne sont pas spécialement difficiles et qui testent les compétences de base. Si le travail sur ce polycopié met en lumière des lacunes, il est conseillé de retravailler son cours et de faire plus d'exercices (il y en a des milliers sur [exo7](http://exo7.emath.fr/search.php).)
+
+
+Si vous sentez que vous avez des faiblesses et que vous souhaitez vous renforcer en calcul de base (les redoublements en L3 sont *beaucoup* plus souvent dus à des faiblesses en calcul de niveau lycée ou L1 qu'à des lacunes de L2), je conseille très fortement de bosser [ce polycopié](https://colasbd.github.io/cdc/cahier_de_calcul_v11.pdf).
+Faites-le vraiment, par exemple en l'imprimant et en écrivant les résultats des calculs dessus, puis en vous auto-évaluant. Ce cahier est destiné aux élèves de première année d'étudies supérieures, pour être complété tout au long de la première année. Il vous permettra, à l'orée de votre entrée en L3, de vérifier votre solidité sur les concepts appris durant l'année de L1 et de prendre du recul dessus.
+
+Enfin, si vous souhaitez réviser les maths de façon plus ludique, vous pouvez essayer le site suivant, qui propose des quiz : [https://www.dojomath.fr/](https://www.dojomath.fr/)
+
+Il y a des thèmes de tous niveaux, du collège au niveau L3. Ca ne couvre pas tout, mais il y a des questionnaires sur les séries, ou sur l'algèbre de L2 / L3, par exemple. (En tant que chargé de cours d'analyse complexe au S6, je vous conseille de faire les thèmes de nombres complexes, qui ne sont statistiquement pas *du tout* bien maîtrisés.)
+
+
+Calendrier prévisionnel
+-----------------------
+
+Les cours reprennent le mercredi 5 septembre, les TD la semaine d'après. Les partiels auront lieu immédiatement après les vacances de la Toussaint. Les examens finaux du semestre 5 auront lieu à la rentrée de janvier.
+
+Semaine de la recherche
+-----------------------
+
+Informations à venir
 
 Modalités du contrôle des connaissances (examens)
 ---------------------------------------
@@ -85,25 +121,10 @@ Modalités du contrôle des connaissances (examens)
 Le document contenant tous les coefficients de toutes les épreuves est disponible sur cette page : [MCC-2023-2024.pdf](MCC-2023-2024.pdf)
 
 
-AJAC
-----
 
-Si vous êtes AJAC, la *priorité absolue* est de valider votre L2. Les cours de L3 ne doivent pas être prioritaires sur votre L2. Les emplois du temps ne pourront en général pas être adaptés, mais s'il vous reste peu d'UE de L2 à valider, il est parfaitement possible de tout valider et de réussir à valider sa L2 et sa L3 à la fin de l'année. Bon courage.
-Si vous voyez que c'est trop difficile, ou simplement si vous avez des doutes ou des questions, contactez-moi pour un rendez-vous.
-
-AED
----
-
-Si vous êtes AED, vous avez la possibilité de prendre des options spéciales EAP3 et EAP4 à la place des options normales. Il est très conseillé de faire ce choix, car ça vous libère du temps, mais ce n'est pas obligatoire.
-
-Plus d'informations à la réunion de rentrée.
-
-
-
-
-Obtenir son diplôme, un relevé de notes, attestation de réussite etc.
--------------------------------------------------
-Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
+Récupération de son diplôme
+---------------------------
+Pour les anciens. Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
 
 
 
