@@ -14,6 +14,13 @@ Calendrier prévisionnel de la L3
 Le calendrier du semestre est dans le document [calendrier-2024-2025.pdf](calendrier-2024-2025.pdf)
 
 
+Bibliographie pour la Licence de mathématiques
+---------------------------------------------
+
+Une [bibliographie pour la licence et le magistère de mathématiques](bibliographieL3Magistere.pdf) est disponible.
+
+Elle propose des livres de transition entre la L2 et la L3, des livres ciblés pour l'année de L3 ou de magistère, et des livres pour la transition L3-> M1.
+
 
 Récupération de son diplôme
 ---------------------------
