@@ -10,7 +10,15 @@
 
 
 \usepackage{url,mdframed}
+\usepackage{xcolor}
+
 \usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
 
 \def\separateur{\begin{center}
 $\star$\\
@@ -23,6 +31,8 @@ $\star\quad\star$
 
 \maketitle
 \tableofcontents
+
+% il manque les miniatures, proof from the book
 
 \section*{Comment utiliser cette bibliographie}
 \begin{itemize}
@@ -109,11 +119,14 @@ Traduit de l'anglais par Jean Gardelle. Présentation des axiomes, lemme de Zorn
 
 \separateur
 \subsection{Algèbre}
+% Blaise recommande fortement Rombaldi d'ALgèbre. Peut-être plus pour L2->L3
 \begin{mdframed}
 \begin{itemize}
 \item Daniel Perrin, Cours d'algèbre.
 \begin{quote}
-On ne présente plus \og le Perrin\fg. Toute l'algèbre de L3 ou d'agreg est \og dans le Perrin\fg. Les suites exactes ? Dans le Perrin, troisième page. \footnote{Aux agrégatifs de passage : cessez de prétendre n'avoir jamais entendu parler de suites exactes!!} À lire crayon à la main, certaines preuves sont rapides (bien que toujours correctes). Les exercices sont corrigés dans des ouvrages de Francinou et Gianella (sans Nicolas), et Ortiz.
+On ne présente plus \og le Perrin\fg. Toute l'algèbre de L3 ou d'agreg est \og dans le Perrin\fg. Les suites exactes ? Dans le Perrin, troisième page.%
+\footnote{Aux agrégatifs de passage : cessez de prétendre n'avoir jamais entendu parler de suites exactes!!}
+ À lire crayon à la main, certaines preuves sont rapides (bien que toujours correctes). Les exercices sont corrigés dans des ouvrages de Francinou et Gianella (sans Nicolas), et Ortiz.
 \end{quote}
 \end{itemize}
 \end{mdframed}
@@ -222,7 +235,7 @@ Cour de premier semestre de première année à Ulm, disponible à l'adresse \ur
 \begin{itemize}
 \item François Rouvière, \emph{Petit guide de calcul différentiel}
 \begin{quote}
-Affectueusement surnommé \og PGCD\fg{} par les agrégatifs. Panorama de cours suivis d'exercices d'entraînement puis de problèmes plus difficiles.
+Affectueusement surnommé \og PGCD\fg{} par les agrégatifs. Panorama de cours suivis d'exercices d'entraînement puis de problèmes plus difficiles et souvent passionnants.
 Contenu : normes, différentielles, point fixe, inversion locale et sous-variétés, différentielles secondes, problèmes d'extrema. Pas d'équations différentielles.
 \end{quote}
 \end{itemize}
@@ -250,7 +263,7 @@ Note : en M1, le calcul différentiel et les équations différentielles évolue
 
 \separateur
 \subsection{Probabilités}
-
+% Blaise reocmmande le poly de Le Gall
 
 La grande nouveauté en probabilités de L3 par rapport aux années précédentes est l'arrivée de la théorie de la mesure et de l'intégration de Lebesgue, dont l'efficacité permet entre autres de gérer les passages à la limite et les phénomènes non discrets avec moins de travail et d'unifier le traitement des probabilités discrètes et continues.
 
@@ -285,7 +298,7 @@ Joli petit livre accessible en fin de L2, sur un sujet apparaissant habituelleme
 %\end{quote}
 \item Patrick Billingsley, \emph{Probability and Measure}
 \begin{quote}
-Le programme de L3 et un peu plus, bonne référence anglo-saxonne qui n'escamote pas les détails analytiques. Probabilités et théorie de la mesure apparaissent tour à tour comme motivation ou application l'un de l'autre.
+Le programme de L3 et un peu plus. Référence anglo-saxonne qui n'escamote pas les détails analytiques. Probabilités et théorie de la mesure apparaissent tour à tour comme motivation ou application l'un de l'autre. Chaudement recommandé par Olivier Garet.
 \end{quote}
 %\item Walter Appel, \emph{Probabilités pour les non-probabilistes}
 
@@ -329,14 +342,14 @@ Ouvrage qui met en valeur la part de calcul différentiel dans l'analyse complex
 \end{quote}
 \item Henri Cartan, \emph{Théorie élémentaire des fonctions analytiques d'une ou plusieurs variables complexes}
 \begin{quote}
-Très grand classique. Seuls les trois premiers chapitres seront couverts par la L3 dans le programme actuel. Cartan enchaîne ensuite sur les fonctions de plusieurs variables complexes, les fonctions harmoniques, l'uniformisation et les systèmes différentiels holomorphes.
+Très grand classique. Seuls les trois premiers chapitres seront couverts par la L3 dans le programme actuel. Cartan enchaîne ensuite sur les fonctions de plusieurs variables complexes, les fonctions harmoniques, les familles normales, l'uniformisation et les systèmes différentiels holomorphes.
 \end{quote}
 \end{itemize}
 
 \separateur
 \subsection{Géométrie}
 
-En L3, la géométrie est dans un état transitoire entre la géométrie de premier cycle, qui culmine (culminait) dans l'étude des coniques, quadriques, courbes paramétrées, nappes paramétrées et leur courbure, et la géométrie plus avancée, actuelle, de niveau M2 et recherche : géométrie algébrique, géométrie arithmétique, géométrie différentielle, riemannienne, symplectique, finslerienne.
+En L3, la géométrie est dans un état transitoire entre la géométrie de premier cycle, qui culmine (culminait) dans l'étude des coniques, quadriques, courbes paramétrées, nappes paramétrées et leur courbure, et la géométrie plus avancée, actuelle, de niveau M2 et recherche : géométrie algébrique, géométrie arithmétique, géométrie différentielle, riemannienne, symplectique, lorentzienne etc.
 
 Les deux ne s'excluent pas et la première n'est pas \og dépassée\fg{} par la seconde : l'étude des (droites puis des) coniques (objets de dimension un et de degré deux) est le point de départ de la géométrie algébrique. Celle-ci étudie de manière générale des variétés de dimension quelconque et de degré quelconque, sur des corps quelconques (ou sur des anneaux, ce qui mène à la géométrie arithmétique). L'étude des nappes paramétrées est le point de départ de la géométrie riemannienne, qui étudie les variétés différentiables de dimension quelconque et leurs propriétés métriques (dont différents types de courbure).
 
@@ -457,6 +470,7 @@ Grande référence allemande traduite en anglais.  Niveau avancé. \og Concepts 
 \begin{quote}
 Classique de topologie à la française, porté sur l'analyse. Espaces topologiques, fonctions à valeurs réelles (Stone-Weierstrass), espaces vectoriels topologiques. 334 pages et seulement 6 illustrations.
 \end{quote}
+% Dixmier
 
 \end{itemize}
 
@@ -493,7 +507,9 @@ Contre-exemples de topologie générale, dépassant le niveau L3. Pour plonger l
 \item Pierre Bayard \emph{Comment parler des livres que l'on n'a pas lus}
 \end{itemize}
 
-
+% - - -
+% Blaise fait remarquer qu'il n'y a pas d'ananum
+% Ciarlet, Gilbert Strang
 
 
 \end{document}
