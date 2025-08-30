@@ -1,6 +1,22 @@
 Page d'information sur la L3 Maths à Nancy
 ==========================================
 
+Cette page contient:
+- Liste de contacts
+- Réunions de rentrée
+- Emploi du temps
+- Début des cours
+- Calendrier
+- ... autres
+
+Contact(s)
+---------
+- Questions en rapport avec un cours : le responsable de cours directement.
+- Responsable L3 : Damien Mégy
+- Responsables Magistère : David Dos Santos Ferreira et Gianluca Pacienza
+- pour une question administrative (frais de scolarité, certificats, attestation de réussite, diplôme...) : contacter la scolarité : Mme Emmanuel Schafroth fst-scol-miae@univ-lorraine.fr
+- secrétariat pédagogique (emploi du temps, changement d'option, justification d'absence, conventions de stage): Élisa Landormy  fst-licence-maths-adm@univ-lorraine.fr 
+
 
 Réunion(s) de rentrée
 -------------------
@@ -11,6 +27,10 @@ Lieu : Amphi 14, bâtiment Henri Poincaré ("premier cycle"), mardi 2 septembre.
 
 2) Réunion supplémentaire de rentrée de *magistère* mardi 2 septembre 14h en amphi 14
 
+Emploi du temps
+---------------
+
+Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr, ou bien l'appli UL). Si vous n'avez pas encore d'inscription administrative (urgent!!) vous pouvez néanmoins consulter l'emploi du temps même sans compte, voir les instructions dans le fichier [procedure-consultation-EDT](procedure-consultation-EDT)
 
 Début des cours
 ----------------
