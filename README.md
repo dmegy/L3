@@ -30,7 +30,7 @@ Lieu : Amphi 14, bâtiment Henri Poincaré ("premier cycle"), mardi 2 septembre.
 Emploi du temps
 ---------------
 
-Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr, ou bien l'appli UL). Si vous n'avez pas encore d'inscription administrative (urgent!!) vous pouvez néanmoins consulter l'emploi du temps même sans compte, voir les instructions dans le fichier [procedure-consultation-EDT](procedure-consultation-EDT)
+Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr, ou bien l'appli UL). Si vous n'avez pas encore d'inscription administrative (urgent!!) vous pouvez néanmoins consulter l'emploi du temps même sans compte, voir les instructions dans le fichier [procedure-consultation-EDT](procedure-consultation-EDT.pdf)
 
 Début des cours
 ----------------
