@@ -66,8 +66,9 @@ Récupération de son diplôme
 Pour les anciens. Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
 
 
+STAGES
+-------
 
-
-
+Le stage est obligatoire pour valider le diplôme de licence.
 
 
