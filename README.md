@@ -50,8 +50,8 @@ Calendrier prévisionnel de la L3
 -----------------------
 
 Le calendrier de l'année : 
-[calendrier_Mathématiques_25-26V2](calendrier_Mathématiques_25-26V2.pdf)
-(Il ne contient pas les dates des partiels, ces dates seront confirmées bientôt, a priori à la rentrée des vacances de la Toussaint ou la semaine suivante.)
+[calendrier2526.pdf](calendrier2526.pdf)
+(Il ne contient pas les dates des partiels, qui auront lieu la semainedu 11 novembre.)
 
 Bibliographie pour la Licence de mathématiques
 ---------------------------------------------
