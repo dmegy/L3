@@ -1,5 +1,5 @@
-Page d'information sur la L3 Maths à Nancy
-==========================================
+# Page d'information sur la L3 Maths à Nancy
+============================================
 
 Cette page contient:
 - [Contacts : qui contacter pour quelle demande](#contacts)
@@ -8,8 +8,8 @@ Cette page contient:
 - [Emploi du temps](#emploi-du-temps)
 - [Calendrier](#calendrier)
 
-Contacts
----------
+## Contacts
+
 - Questions en rapport avec un cours : le responsable de cours directement.
 - Responsable L3 : Damien Mégy
 - Responsables Magistère : David Dos Santos Ferreira et Gianluca Pacienza
@@ -18,13 +18,13 @@ Contacts
 
 
 
-Semaine de la recherche
----------------
+## Semaine de la recherche
+
 La semaine de la recherche aura lieu du 22 au 26 septembre. Un exposé est prévu le jeudi 25 à 14h et il y aura peut-être d'autres activités liées à cette semaine. Vous devez y assister (ce n'est pas que pour celles et ceux qui veulent faire de la recherche, c'est pour tout le monde).
 Ces activités apparaissent dans votre emploi du temps.
 
-Séminaire du magistère
-----------------------
+## Séminaire du magistère
+
 Les séminaires du magistère sont destinés aux étudiant(e)s de magistère mais ouverts à toute la promotion de L3, MA comme ME, si l'emploi du temps le permet. Pour les L3 hors magistère, c'est facultatif mais nous vous invitons fortement à regarder les programmes et à venir quand vous voulez. Il s'agit d'exposés mathématiques donnés par les enseignants de l'IECL.
 Le programme prévisionnel pour l'instant est le suivant : 
 - 25/09 : Régine Marchand "La percolation: un modèle probabiliste pour les matériaux poreux. »
@@ -36,34 +36,30 @@ Le programme prévisionnel pour l'instant est le suivant :
 À venir en 2026 :
 - Damien Mégy :  "Empilements compacts de sphères en dimension 2 et 3 puis 8 et 24 ».
 
-Emploi du temps
----------------
+## Emploi du temps
 
 Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr, ou bien l'appli UL). Si vous n'avez pas encore d'inscription administrative (urgent!!) vous pouvez néanmoins consulter l'emploi du temps même sans compte, voir les instructions dans le fichier [procedure-consultation-EDT](procedure-consultation-EDT.pdf)
 
 
-Calendrier prévisionnel de la L3
------------------------
+## Calendrier prévisionnel de la L3
 
 Le calendrier de l'année : 
 [calendrier2526.pdf](calendrier2526.pdf)
 (Il ne contient pas les dates des partiels, qui auront lieu la semainedu 11 novembre.)
 
-Bibliographie pour la Licence de mathématiques
----------------------------------------------
+## Bibliographie pour la Licence de mathématiques
 
 Une [bibliographie pour la licence et le magistère de mathématiques](bibliographieL3Magistere.pdf) est disponible.
 
 Elle propose des livres de transition entre la L2 et la L3, des livres ciblés pour l'année de L3 ou de magistère, et des livres pour la transition L3-> M1.
 
 
-Récupération de son diplôme
----------------------------
+## Récupération de son diplôme
+
 Pour les anciens. Les informations sont dans le fichier [retirer-son-diplome.md](retirer-son-diplome.md)
 
 
-STAGES
--------
+## STAGES
 
 Le stage est obligatoire pour valider le diplôme de licence.
 Dans tous les cas listés ci-dessous, un rapport de stage devra être remis avant mi-mai, sera noté, et comptera dans votre moyenne.
