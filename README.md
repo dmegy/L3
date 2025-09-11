@@ -49,7 +49,7 @@ Le calendrier de l'année :
 
 ## Bibliographie pour la Licence de mathématiques
 
-Une [bibliographie pour la licence et le magistère de mathématiques](bibliographieL3Magistere.pdf) est disponible.
+Une [bibliographie pour la licence et le magistère de mathématiques](magistere/bibliographieL3Magistere.pdf) est disponible.
 
 Elle propose des livres de transition entre la L2 et la L3, des livres ciblés pour l'année de L3 ou de magistère, et des livres pour la transition L3-> M1.
 
