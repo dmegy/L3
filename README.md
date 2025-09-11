@@ -2,14 +2,13 @@ Page d'information sur la L3 Maths à Nancy
 ==========================================
 
 Cette page contient:
-- Liste de contacts
-- Réunions de rentrée
-- Emploi du temps
-- Début des cours
-- Calendrier
-- ... autres
+- [Contacts : qui contacter pour quelle demande](#contacts)
+- [Semaine de la recherche](#semaine-de-la-recherche)
+- [Séminaire du magistère]()
+- [Emploi du temps](#emploi-du-temps)
+- [Calendrier](#calendrier)
 
-Contact(s)
+Contacts
 ---------
 - Questions en rapport avec un cours : le responsable de cours directement.
 - Responsable L3 : Damien Mégy
@@ -18,32 +17,29 @@ Contact(s)
 - secrétariat pédagogique (emploi du temps, changement d'option, justification d'absence, conventions de stage): Élisa Landormy  fst-licence-maths-adm@univ-lorraine.fr 
 
 
-Réunion(s) de rentrée
--------------------
 
-Lieu : Amphi 14, bâtiment Henri Poincaré ("premier cycle"), mardi 2 septembre. Deux réunions : 
+Semaine de la recherche
+---------------
+La semaine de la recherche aura lieu du 22 au 26 septembre. Un exposé est prévu le jeudi 25 à 14h et il y aura peut-être d'autres activités liées à cette semaine. Vous devez y assister (ce n'est pas que pour celles et ceux qui veulent faire de la recherche, c'est pour tout le monde).
+Ces activités apparaissent dans votre emploi du temps.
 
-1) Réunion de rentrée de L3 : 11h15 (présence demandée à 11h) en amphi 14. Cette réunion est obligatoire pour tous les étudiants de L3, parcours ME ou MA, magistère ou pas.
-
-2) Réunion supplémentaire de rentrée de *magistère* mardi 2 septembre 14h en amphi 14
+Séminaire du magistère
+----------------------
+Les séminaires du magistère sont destinés aux étudiant(e)s de magistère mais ouverts à toute la promotion de L3, MA comme ME, si l'emploi du temps le permet. Pour les L3 hors magistère, c'est facultatif mais nous vous invitons fortement à regarder les programmes et à venir quand vous voulez. Il s'agit d'exposés mathématiques donnés par les enseignants de l'IECL.
+Le programme prévisionnel pour l'instant est le suivant : 
+- 25/09 : Régine Marchand "La percolation: un modèle probabiliste pour les matériaux poreux. »
+- 02/10 : Nicolas Marque et Samuel Tapie "Relativité, Bulles de savon, Pavages de Penrose : de la recherche au grand public."
+- 06/11 : Anne de Roton « Ensemble assommants, sans progression… ou comment éviter les solutions (d’une équation linéaire) » 
+- 04/12 : Alexandre Afgoustoudis « La symétrie aujourd’hui »
+- 19/01-23/01 : Master class théorie des nombres/probabilités
+- février 2026 : Nicolas Marque : « Le chemin le plus court : mirages, arcs-en-ciel et trous noirs » 
+À venir en 2026 :
+- Damien Mégy :  "Empilements compacts de sphères en dimension 2 et 3 puis 8 et 24 ».
 
 Emploi du temps
 ---------------
 
 Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr, ou bien l'appli UL). Si vous n'avez pas encore d'inscription administrative (urgent!!) vous pouvez néanmoins consulter l'emploi du temps même sans compte, voir les instructions dans le fichier [procedure-consultation-EDT](procedure-consultation-EDT.pdf)
-
-Début des cours
-----------------
-
-Jeudi 8h CM d'intégration puis algèbre (8h-12h)
-
-Vendredi 8h : premier CM de calcul formel
-Vendredi 10h15 : premier CM d'analyse numérique
-
-Vendredi 14h : ME et étudiants de MA intéressés par le concours du Capes
-
-Vendredi 14h-18 : premier CM/TD de magistère (analyse harmonique)
-
 
 
 Calendrier prévisionnel de la L3
@@ -70,5 +66,9 @@ STAGES
 -------
 
 Le stage est obligatoire pour valider le diplôme de licence.
+Dans tous les cas listés ci-dessous, un rapport de stage devra être remis avant mi-mai, sera noté, et comptera dans votre moyenne.
+
+- Si vous êtes magistérien(ne), vous *devez* faire un stage de recherche en laboratoire de recherche : IECL, ou autre laboratoire scientifique comme le Loria (info) ou le laboratoire de physique théorique.
+- Sinon, il faut faire un stage mais pas nécessairement mathématique : ça peut être un stage en laboratoire de recherche (maths ou autre), en entreprise (n'importe quel type d'entreprise, non nécessairement scientifique), ou en établissement scolaire, auquel cas la durée est réduite de 3 à deux semaines. Le travail salarié de plus de trois semaines valide également le stage (fiche de paie à l'appui). Pour plus d'informations, me contacter ou contacter Elisa Landormy, qui gérera la signature des conventions de stage.
 
 
