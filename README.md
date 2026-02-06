@@ -53,6 +53,10 @@ Une [bibliographie pour la licence et le magistère de mathématiques](magistere
 
 Elle propose des livres de transition entre la L2 et la L3, des livres ciblés pour l'année de L3 ou de magistère, et des livres pour la transition L3-> M1.
 
+Liste de livres de maths gratuits : https://cain.math.gatech.edu/textbooks/onlinebooks.html (Livres en anglais. [Version archivée](https://web.archive.org/web/20251114185815/https://cain.math.gatech.edu/textbooks/onlinebooks.html))
+
+Il est conseillé de lire des livres au cours de la L3, pas forcément beaucoup mais un peu.
+
 
 ## Récupération de son diplôme
 
