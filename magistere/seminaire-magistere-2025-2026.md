@@ -6,6 +6,21 @@ Cette page récapitulel le programme 2025-2026 du «séminaire du magistère» d
 
 > Pour plus d'informations sur le magistère de mathématiques de Nancy, une formation sélective sur trois recrutant en sortie de L2 ou CPGE (MP/MP*/PC*), voir les pages officielles sur le site de l'IECL <https://iecl.univ-lorraine.fr/magistere-poincare/> (lien le plus à jour) ou de la faculté de sciences <https://fst.univ-lorraine.fr/formations/magistere-de-mathematiques-poincare/>.
 
+## 2 Avril 2026 : Damien Mégy
+
+### Empilements compacts de sphères.
+
+Dans cet exposé, on présentera la thématique des empilements  de sphères, en particulier dans des espaces euclidiens de dimension 2 et 3 mais aussi en dimension supérieure ou en géométrie non euclidienne. (Slides et documents : https://github.com/dmegy/expose-empilements-spheres-magistere-2026)
+
+
+## 5 mars 2026: Julien Bernat
+
+### Introduction aux pavages avec les polyominos.
+
+Cet exposé présente les principales problématiques soulevées dans le domaine des pavages par les polyominos avec quelques généralisations.
+A partir de la hiérarchie de Golomb, nous discutons de plusieurs techniques mobilisant des outils mathématiques variés qui permettent de décider si un pavage est possible ou non.
+Des exemples illustrent différents cas considérés.
+
 ## 5 février 2026: Nicolas Marque
 
 ### Le chemin le plus court : mirages, arcs-en-ciel et trous noirs

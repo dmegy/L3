@@ -1,4 +1,6 @@
-> Cette page est une version markdown/html de la bibliographie destinée aux étudiant(e)s de L3 et magistère de mathématiques de Nancy, qui est disponible
+# Bibliographie Mathématique pour la L3 et le Magistère de mathématiques à Nancy
+
+> Cette page est une version markdown/html expérimentale (générée automatiquement) de la bibliographie destinée aux étudiant(e)s de L3 et magistère de mathématiques de Nancy, qui est disponible en pdf ici : https://github.com/dmegy/L3/blob/main/magistere/bibliographieL3Magistere.pdf
 
 ## Comment utiliser cette bibliographie
 

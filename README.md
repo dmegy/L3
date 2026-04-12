@@ -45,7 +45,28 @@ Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr
 
 Le calendrier de l'année : 
 [calendrier2526.pdf](calendrier2526.pdf)
-(Il ne contient pas les dates des partiels, qui auront lieu la semainedu 11 novembre.)
+
+## Pour débuter en LaTeX
+
+Le rapport de stage doit être rendu en LaTeX. Voici un document minmal fonctionnel, compilable avec "pdflatex" qui est le compilateur _legacy_ mais toujours le plus répandu et standard :
+
+```latex
+\documentclass{article}
+\usepackage[T1]{fontenc} % Toujours nécessaire (contrairement à \usepackage[utf8]{inputenc})
+\usepackage{lmodern} % Police 'Latin Modern' vectorielle. Alternative populaire : 'fourier'
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage[french]{babel} % Règles typographiques françaises
+\usepackage{mathtools,amssymb,amsthm} % mathtools remplace et améliore amsmath
+\usepackage{microtype,enumitem,graphicx} % Et autres : mdframed, xcolor, tikz, ...
+\usepackage{hyperref} % À charger en dernier de préférence
+\begin{document}
+Tutoriel recommandé : \url{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes}
+\end{document}
+```
+
+
+Dans le sous-dossier [ressources-pour-latex](ressources-pour-latex/), vous trouverez des documents pdf pour vous ader à vous familiariser avec LaTeX. (Conseil : si vous disposez d'un ordinateur personnel, installez LaTeX. Overleaf, c'est bien pour partager son travail ou collaborer sur un projet, mais c'est quand même assez lent et pénible pour plein de choses.
+
 
 ## Bibliographie pour la Licence de mathématiques
 
