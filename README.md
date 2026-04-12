@@ -27,14 +27,15 @@ Ces activités apparaissent dans votre emploi du temps.
 
 Les séminaires du magistère sont destinés aux étudiant(e)s de magistère mais ouverts à toute la promotion de L3, MA comme ME, si l'emploi du temps le permet. Pour les L3 hors magistère, c'est facultatif mais nous vous invitons fortement à regarder les programmes et à venir quand vous voulez. Il s'agit d'exposés mathématiques donnés par les enseignants de l'IECL.
 Le programme prévisionnel pour l'instant est le suivant : 
-- 25/09 : Régine Marchand "La percolation: un modèle probabiliste pour les matériaux poreux. »
-- 02/10 : Nicolas Marque et Samuel Tapie "Relativité, Bulles de savon, Pavages de Penrose : de la recherche au grand public."
-- 06/11 : Anne de Roton « Ensemble assommants, sans progression… ou comment éviter les solutions (d’une équation linéaire) » 
-- 04/12 : Alexandre Afgoustoudis « La symétrie aujourd’hui »
-- 19/01-23/01 : Master class théorie des nombres/probabilités
-- février 2026 : Nicolas Marque : « Le chemin le plus court : mirages, arcs-en-ciel et trous noirs » 
-À venir en 2026 :
-- Damien Mégy :  "Empilements compacts de sphères en dimension 2 et 3 puis 8 et 24 ».
+
+- 25/09/2025 : Régine Marchand, "La percolation: un modèle probabiliste pour les matériaux poreux. »
+- 02/10/2025 : Nicolas Marque et Samuel Tapie, "Relativité, Bulles de savon, Pavages de Penrose : de la recherche au grand public."
+- 06/11/2025 : Anne de Roton, « Ensemble assommants, sans progression… ou comment éviter les solutions (d’une équation linéaire) » 
+- 04/12/2025 : Alexandre Afgoustoudis, « La symétrie aujourd’hui »
+- 19/01-23/01 : Pause (master class théorie des nombres/probabilités)
+- 05/02/2026 : Nicolas Marque : « Le chemin le plus court : mirages, arcs-en-ciel et trous noirs » 
+- 05/03/2026 : Julien Bernat, « Introduction aux pavages avec les polyominos »
+- 02/04/2026 : Damien Mégy,  « Empilements compacts de sphères en dimension 2 et 3 puis 8 et 24 »
 
 ## Emploi du temps
 
