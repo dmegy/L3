@@ -4,7 +4,7 @@
 Cette page contient:
 - [Contacts : qui contacter pour quelle demande](#contacts)
 - [Semaine de la recherche](#semaine-de-la-recherche)
-- [Séminaire du magistère]()
+- [Séminaire du magistère](#seminaire-du-magistere)
 - [Emploi du temps](#emploi-du-temps)
 - [Calendrier](#calendrier)
 
@@ -36,6 +36,9 @@ Le programme prévisionnel pour l'instant est le suivant :
 - 05/02/2026 : Nicolas Marque : « Le chemin le plus court : mirages, arcs-en-ciel et trous noirs » 
 - 05/03/2026 : Julien Bernat, « Introduction aux pavages avec les polyominos »
 - 02/04/2026 : Damien Mégy,  « Empilements compacts de sphères en dimension 2 et 3 puis 8 et 24 »
+- 30/04/2026 : Victoria Callet Feltz, « Analyse topologique de données musicales, ou comment différencier Bach de Metallica »
+
+Les résumé des exposés sont [ici](magistere/seminaire-magistere-2025-2026.md)
 
 ## Emploi du temps
 
