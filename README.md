@@ -4,7 +4,7 @@
 Cette page contient:
 - [Contacts : qui contacter pour quelle demande](#contacts)
 - [Semaine de la recherche](#semaine-de-la-recherche)
-- [Séminaire du magistère](#seminaire-du-magistere)
+- [Séminaire du magistère](#séminaire-du-magistère)
 - [Emploi du temps](#emploi-du-temps)
 - [Calendrier](#calendrier)
 
