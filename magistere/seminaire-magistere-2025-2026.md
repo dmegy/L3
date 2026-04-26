@@ -6,6 +6,13 @@ Cette page récapitulel le programme 2025-2026 du «séminaire du magistère» d
 
 > Pour plus d'informations sur le magistère de mathématiques de Nancy, une formation sélective sur trois recrutant en sortie de L2 ou CPGE (MP/MP*/PC*), voir les pages officielles sur le site de l'IECL <https://iecl.univ-lorraine.fr/magistere-poincare/> (lien le plus à jour) ou de la faculté de sciences <https://fst.univ-lorraine.fr/formations/magistere-de-mathematiques-poincare/>.
 
+
+## 30 avril 2026 : Victoria Callet Feltz
+
+### Analyse topologique de données musicales, ou comment différencier Bach de Metallica
+
+Au début du XXIème siècle, la communauté mathématiques a imaginé un outil basé sur la topologie algébrique dans le but de faire de la reconnaissance de forme, de classifier des objets. Pour cela, on filtre les objets que l'on souhaite analyser en utilisant de triangles de toutes dimensions, puis on les étudie via un invariant topologique appelée l’homologie persistante. Cette approche permet d’encoder l’évolution topologique d’un objet à travers une seule structure algébrique. L’homologie persistante possède des applications dans de nombreux domaines tels que la biologie, la médecine ou encore l’astrophysique, et le but de cet exposé est de comprendre comment l’appliquer dans un contexte particulier : celui de l’analyse musicale. Plus précisément, nous allons voir comment amener l'homologie persistante vers la classification automatique du style musical, et ainsi comment différencier le classique du métal ou encore de la pop en calculant l’homologie sur les partitions.
+
 ## 2 Avril 2026 : Damien Mégy
 
 ### Empilements compacts de sphères.
