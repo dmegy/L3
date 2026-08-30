@@ -12,9 +12,9 @@ Cette page contient:
 
 - Questions en rapport avec un cours : le responsable de cours directement.
 - Responsable L3 : Damien Mégy
-- Responsables Magistère : David Dos Santos Ferreira et Damien Mégy
+- Responsables Magistère : David Dos Santos Ferreira et Gianluca Pacienza
 - pour une question administrative (frais de scolarité, certificats, attestation de réussite, diplôme...) : contacter la scolarité : Mme Emmanuel Schafroth fst-scol-miae@univ-lorraine.fr
-- secrétariat pédagogique (emploi du temps, changement d'option, justification d'absence, conventions de stage): Carine Gérondi  fst-licence-maths-adm@univ-lorraine.fr 
+- secrétariat pédagogique (emploi du temps, changement d'option, justification d'absence, conventions de stage): Élisa Landormy  fst-licence-maths-adm@univ-lorraine.fr 
 
 
 
@@ -28,7 +28,15 @@ Ces activités apparaissent dans votre emploi du temps.
 Les séminaires du magistère sont destinés aux étudiant(e)s de magistère mais ouverts à toute la promotion de L3, MA comme ME, si l'emploi du temps le permet. Pour les L3 hors magistère, c'est facultatif mais nous vous invitons fortement à regarder les programmes et à venir quand vous voulez. Il s'agit d'exposés mathématiques donnés par les enseignants de l'IECL.
 Le programme prévisionnel pour l'instant est le suivant : 
 
-- date : Orateur/ice, titre
+- 25/09/2025 : Régine Marchand, "La percolation: un modèle probabiliste pour les matériaux poreux. »
+- 02/10/2025 : Nicolas Marque et Samuel Tapie, "Relativité, Bulles de savon, Pavages de Penrose : de la recherche au grand public."
+- 06/11/2025 : Anne de Roton, « Ensemble assommants, sans progression… ou comment éviter les solutions (d’une équation linéaire) » 
+- 04/12/2025 : Alexandre Afgoustoudis, « La symétrie aujourd’hui »
+- 19/01-23/01 : Pause (master class théorie des nombres/probabilités)
+- 05/02/2026 : Nicolas Marque : « Le chemin le plus court : mirages, arcs-en-ciel et trous noirs » 
+- 05/03/2026 : Julien Bernat, « Introduction aux pavages avec les polyominos »
+- 02/04/2026 : Damien Mégy,  « Empilements compacts de sphères en dimension 2 et 3 puis 8 et 24 »
+- 30/04/2026 : Victoria Callet Feltz, « Analyse topologique de données musicales, ou comment différencier Bach de Metallica »
 
 Les résumé des exposés sont [ici](magistere/seminaire-magistere-2025-2026.md)
 
