@@ -1,0 +1,811 @@
+
+\documentclass{beamer}
+% Copyright 2008  by Daina Chiba  <d.chiba@rice.edu>
+%
+% This file can be redistributed and/or modified under
+% the terms of the GNU Public License, version 2.
+
+% Example presentation template file for beamerthemeRice version 0.02 (2008/11/22)
+
+%===============================================================%
+\mode<presentation> %use <handout> for handout mode
+{
+%\usetheme[compress, ricet, numbers, nologo, noshadow]{Rice}
+%\usetheme[ricet, smoothb]{Rice}
+%\usetheme[riceb, minimal]{Rice}
+	% [ricet]		show the \Large "RICE" word mark at the top-right
+	% [ricetm]		show the \large "RICE" word mark at the top-right
+	% [ricets]		show the \small "RICE" word mark at the top-right
+	% [riceb]		show the "RICE" word mark at the bottom-left
+	% [compress]	show only the current section / subsection in the top navigation area.
+	%			recommended if you have more than three subsections in at least one section
+	% [minimal]	hide top navigation
+	% [numbers]	show page numbers at the bottom-right
+	% [noshadow]	remove shadow
+	% [nologo]	remove Rice logo from the title page
+	% [ricegray]	use ricegray instead of riceblue
+	% [bgricegray]	use ricegray as background color
+	% [bggray]	use light gray as background color
+	% [smoothb]	top navigation with balls
+%\usefonttheme[onlymath]{serif}
+\usepackage{pgf}
+	% \useoutertheme{infolines}
+%\setbeamercovered{transparent}
+}
+% In case you want to use other themes with riceblue...
+%\usetheme{Frankfurt}
+% AnnArbor, Antibes, Berlin, Berkeley, Bergen, Boadilla, boxes, CambridgeUS, Copenhagen
+% Darmstadt, Dresden, Frankfurt
+%\usecolortheme{riceowl}
+\usepackage{multirow}
+
+\usepackage[utf8]{inputenc} 
+\usepackage[francais]{babel}
+
+\beamerdefaultoverlayspecification{<+->}
+
+\setbeamertemplate{itemize item}[triangle]
+\setbeamertemplate{itemize subitem}[circle]
+\setbeamertemplate{itemize subsubitem}[circle]
+
+\usepackage{mathptmx}
+%\usepackage{helvet}
+%\usepackage{courier}
+% \usepackage{arev}
+%\usepackage[T1]{fontenc}
+\usepackage{trajan}
+%===============================================================%
+%\usepackage{pstricks}
+%\usepackage{xypic}
+%\input xy
+%\xyoption{all}
+%\usepackage{amsmath,amsfonts}
+%\usepackage{amssymb}
+%\usepackage[all]{xy}
+\usepackage{pdftricks}
+ \begin{psinputs}%
+ \usepackage[dvips,ps,all]{xy}
+ \end{psinputs}
+ \usepackage[T1]{fontenc}
+  \usepackage{pdfpages}  % inclure des fichier pdf
+%\usepackage{amscd}
+\usepackage{graphicx}
+%\usepackage{psbox}
+\usepackage{qrcode}
+ 
+ \definecolor{mypink1}{rgb}{0.858, 0.188, 0.478}
+
+
+\title[3 ème année, S5 Automne]
+{Licence de Mathématiques - 3 ème année\\
+Parcours : \\
+Mathématiques et Applications (MA)  ou Mathématiques et Enseignement (ME)}%
+%\subtitle
+%{for \LaTeX~Presentation}
+
+\author[Licence de Mathématiques]{Faculté des Sciences et Techniques \\
+Université de Lorraine  }
+%\institute
+%{
+% Faculté des Sciences et Techniques, Université de Lorraine - Nancy 1
+%}
+
+\date[02.09.25]{Réunion de rentrée, 2 Septembre 2025}
+
+%\subject{Beamer}
+
+
+\begin{document}
+ 
+\begin{frame}
+\maketitle
+\end{frame}
+
+ 
+
+\section{Réunion de rentrée}
+
+\subsection{Contacts}
+\begin{frame}{Contacts}
+
+\begin{block}{Responsable L3 Maths : }
+Damien MÉGY
+\begin{itemize}
+\item Institut Élie Cartan, bureau 405
+\item (Équipe de géométrie complexe)
+\item Tel. : 03 72 74 54 50
+\item Email :  damien.megy@univ-lorraine.fr
+\item Contact privilégié par mail, sinon, prise de rdv possible
+ \end{itemize}
+\end{block}
+ 
+ 
+ \end{frame}
+
+\begin{frame}
+\begin{block}{Scolarité (inscriptions L3 et Magistère, paiements, certificats...)}
+Emmanuelle Schafroth
+\begin{itemize}
+\item Scolarité FST (rdc)
+\item Tel. :  03 72 74 50 23
+ \item Email :  emmanuelle.schafroth@univ-lorraine.fr
+ \end{itemize}
+\end{block}
+\begin{block}{Secrétariat pédagogique (emplois du temps, conventions de stage)}
+Elisa Landormy (Mois de septembre : Carine Gérondi)
+\begin{itemize}
+\item Scolarité FST  (1er étage)
+\item Tel. :  03 72 74 53 57
+ \item Email :  fst-licence-maths-adm@univ-lorraine.fr
+ \end{itemize}
+\end{block}
+
+\end{frame}
+
+%\subsection{Licence troisième année L3}
+%\begin{frame}
+%\begin{alertblock}{Plus de répétition de semestres}
+% Deux semestres (pédagogiques+temporels)
+% \begin{itemize}
+% \item S5 au semestre d'automne.
+% \item S6 au semestre de printemps.
+% \end{itemize}
+% \end{alertblock}
+
+%\end{frame}
+
+\subsection{Parcours}
+\begin{frame}
+\begin{block}{Deux parcours}
+Maths et applications (MA) ou Maths et enseignement (ME-ECL)
+\begin{itemize}
+\item Les deux parcours aboutissent au même diplôme : Licence de mathématiques.
+\item ME-ECL : parcours optimal pour passer ensuite le CAPES, via un Master enseignement
+\item MA : pour le reste (master de maths pures ou maths appli, agrégation, éventuelle thèse après etc)
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}
+\begin{block}{Les parcours en pratique}
+\begin{itemize}
+\item ME-ECL en pratique : consolidation des acquis, contenus spécifiques au programme du Capes, préparation des épreuves du CAPES
+\item MA en pratique : parcours intensif pour arriver au niveau nécessaire pour un M1 (dont beaucoup de choses hors programme au Capes)
+\item Choix à faire maintenant (changement encore possible cette semaine ou la semaine prochaine, signalez-vous et envoyez un mail)
+\item ATTENTION : il n'est plus possible de changer de parcours en milieu d'année !
+\item Différence essentielle au S5 : cours de topologie en MA, cours de Structure et démonstrations en ME-ECL. Options différentes (algo pour l'enseignement en ME-ECL, ana num ou calcul formel en MA). Préparation spécifique aux nouvelles épreuves écrites et orales du nouveau CAPES.
+\end{itemize}
+\end{block}
+\end{frame}
+
+%
+%\subsection{Inscriptions}
+%\begin{frame}{Inscriptions}
+%%L'inscription administrative en Licence est obligatoire et annuelle. L'inscription pédagogique est obligatoire pour passer les examens correspondants. Une inscription pédagogique implique de passer les examens correspondants.
+%\begin{itemize}
+%\item Inscription Administrative (IA) : annuelle et obligatoire
+%\begin{itemize}
+%\item Statut d'étudiant
+%\item Permet l'IP
+%\end{itemize}
+%\item Inscription Pédagogique (IP) : semestrielle et obligatoire pour passer les examens correspondants
+%\begin{itemize}
+%\item S5, Semestre d'automne% (fall)
+%\item S6, Semestre de printemps% (spring)
+%%\item implique de passer les examens correspondants
+%\end{itemize}
+%\end{itemize}
+%
+%\pause
+%$\to$  IP pour l'année est préparée dès septembre.
+
+%$\to$ IA$+$IP aux dates prévues nécessaires pour suivre les
+%enseignements puis passer les examens.
+%\end{frame}
+
+%\end{document}
+ 
+\begin{frame}%{Validation d'acquis}
+\begin{alertblock}{Candidature e-Candidat et Campus France}
+Les étudiants autorisés à s'inscrire en Licence de Mathématiques L3  par le billet de e-Candidat ou Campus France  sont informés que cette autorisation n'est valable que pour l'année en cours. \\
+En cas d'échec aux examens ils doivent à nouveau faire une demande d'inscription qui peut être refusée en cas d'absentéisme ou de résultats trop faibles.
+\end{alertblock}
+\end{frame}
+
+%\begin{frame}
+%\begin{center}
+%\includegraphics[scale=.45]{harcelement-discrimination.png}
+%\end{center}
+%\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Tutorat et accueil des étudiantes et étudiants}
+
+\begin{itemize}
+    
+\item \textbf{Pour les étudiants internationaux : un dispositif d'accueil}\\
+{\tt https://fst.univ-lorraine.fr/international/dispositif-accueil/}\\
+des étudiants vous accueillent et vous guident (bâtiment administration);\\
+welcome days (17 septembre à partir de 16h); welcome bags...
+
+\item \textbf{Tutorat en mathématiques} \\
+Tous les mercredi de 13h à 14h à la FST.\\
+Deux étudiants répondent à vos questions, vous aident à travailler et à vous adapter :\\
+Afiwa Makafui Baba, étudiante en M2 IMSD;\\
+Paul Rémy, étudiant en prépa agrégation (M2 MFA). \\
+Objectifs : vous aider dans votre travail, votre installation, votre adaptation aux enseignements dans la licence de maths. Créer de la convivialité et un réseau d'entraide.
+
+
+
+\end{itemize}
+
+\end{frame}
+
+
+
+\begin{frame}{Etudier dans de bonnes conditions}
+
+\begin{itemize}
+    
+\item \textbf{Santé et social SIUMPPS:} Addiction, aide médico-psychologique, contraception, formations, handicap, infirmerie, médecine, nutrition, SIDA/IST, social, et vaccination. Accueil, écoute, accompagnement par les assistantes sociales \\
+{\tt https://www.univ-lorraine.fr/}
+{\tt la-vie-a-luniversite-de-lorraine/sante/}\\
+03 72 74 05 51 (secrétariat médical à Vandoeuvre)\\
+03 72 74 05 65 (secrétariat social à Vandoeuvre)
+
+\item \textbf{Prise en compte de difficultés particulières pour raisons médicales ou handicap:} \\
+Mission Handicap Etudiante (MHE), \\
+bureau d'accueil dans le batiment ESA \\
+{\tt https://www.univ-lorraine.fr/handicap/}
+
+
+
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Etudier dans de bonnes conditions}
+
+Vous avez le droit, de la part des étudiant·es et du personnel:
+\begin{itemize} 
+\item d'être considéré·e avec respect
+\item ... sans discrimination
+\item ... sans harcèlement, sexuel ou moral.
+\end{itemize}
+Et vous avez aussi le devoir de faire de même pour les autres !
+
+\medskip
+\textbf{En cas d'urgence: } police-secours 17 ou 112, \\
+si je ne peux pas parler: par SMS au 114
+
+\medskip
+\textbf{Vous êtes victime ou témoin ?} {\color{red}Ne restez pas seul·e, parlez-en:}
+\begin{itemize} 
+\item à un·e camarade, un·e enseignant·e, un membre du personnel administratif, votre responsable d'année...
+\item dispositif d'alerte de l'université: 06 38 97 73 91, {\tt stop-violences@univ-lorraine.fr}
+\item collectif de lutte contre le harcèlement sexuel dans l'enseignement supérieur (Clasches):  {\tt https://clasches.fr/}
+%\item collectif de lutte contre le harcèlement à l'Université (Cha-U): {\tt https://cha-u.fr/}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\begin{alertblock}{Autres problèmes : contactez-nous}
+Si vous rencontrez des difficultés (matérielles, psychologiques, autres), parlez-en vraiment le plus tôt possible ! Il est souvent possible de redresser la barre si l'on s'y prend tôt. Les membres de l'équipe pédagogique ou de l'administration peuvent vous rediriger vers des services spécialisés, des associations etc. Infos rapides ici : 
+\begin{itemize}
+\item Pour gérer une crise qui monte, et parler avec quelqu’un, il y a \url{https://www.filsantejeunes.com} qui propose un numéro vert : 0800 235 236, et un chat sur le site.
+\item Association Apsytude \url{https://www.apsytude.com/fr/} (basée à Lyon, présente sur tte la France). Il y a le numéro de téléphone 06 27 86 91 83, ou alternativement le mail rdv.apsytude@gmail.com ou un formulaire web.
+\end{itemize}
+
+Plus d'informations sur la page web de la L3 \url{https://github.com/dmegy/L3} (QRcode en fin de réunion). 
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Fête de la science}
+La fête de la science a lieu les vendredi 8 octobre et samedi 9 octobre, à la faculté des sciences.
+L'IECL dispose habituellement de trois salles avec des stands qui présentent des activités de découverte des maths au public (tous âges et classes).
+
+Nous recherchons comme chaque année des étudiants volontaires pour participer sur un ou plusieurs créneaux sur ces deux jours.
+Les ME-ECL seront libérés le vendredi 9 après-midi pour pouvoir participer.
+
+Si vous êtes intéressé(e), précisez-le dans la fiche d'inscription que vous rendrez en fin de réunion.
+Cette fiche ne vous engage pas à venir effectivement, il s'agit juste de signaler votre possible intérêt.
+
+\end{frame}
+ 
+ 
+\begin{frame}{Semaine de la recherche}
+La semaine de la recherche a lieu le 21 septembre.
+Différentes activités sont proposées aux étudiants : exposés généralistes, exposés de maths, visites de la bibliothèque de recherche.
+En particulier, il y aura le jeudi 24 (normalement) des exposés de présentation des travaux de recherche des tous nouveaux et nouvelles lauréat(e)s de la médaille Fields.
+Plus d'informations très bientôt, notez la date (semaine et journée).
+
+\end{frame}
+
+\subsection{Calendrier}
+
+%\begin{frame}{Emploi du temps S5. Semaine type}
+%\includegraphics[width=0.8\textwidth]{semaine0.png} 
+%\end{frame}
+
+%\begin{frame}
+%\includegraphics[width=0.8\textwidth]{semaine-type1.png} 
+%\end{frame}
+
+%\begin{frame}
+%\includegraphics[width=0.8\textwidth]{semaine-type2.png} 
+%\end{frame}
+
+%\begin{frame}{Emploi du temps S5. Semaine type}
+%\includegraphics[width=0.8\textwidth]{calendrier-Maths-16-17-S6.jpg} 
+
+%\end{frame}
+
+%\begin{frame}{Calendrier  S5}
+%\includegraphics[width=1\textwidth]{calendrier-Maths-16-17-S5.jpg} 
+ %\end{frame}
+\begin{frame}{Début du calendrier }
+\begin{block}{Semestre 5}
+$\to$  Début des cours :  jeudi 10h15 pour les ME-ECL, vendredi 10h15 premier CM d'intégration-probas. \\
+$\to$  Vendredi après-midi : ME-ECL : réunion à 13h puis cours; Magistère : cours 14h-18h. MA hors magistère : rien.\\
+$\to$ Lundi 7 septembre 8h : 2ème CM d'intégration-probas.\\
+$\to$  Vacances de la Toussaint : semaine du  26 octobre \\
+{\color{red}$\to$ Partiels :  semaine du 2 novembre}\\
+$\to$  Vacances de Noël : du 19 décembre au 3 janvier \\
+ {\color{red}$\to$ Examens de janvier : semaine du 11 janvier}\\
+$\to$ Début du S6 : 18 janvier.\\
+\end{block}
+ \end{frame}
+ 
+ 
+ 
+% \begin{frame}{Calendrier de la 1ère semaine}
+%\begin{itemize}
+%\item jeudi 4 sept,  8h : Intégration et probas (Olivier Garet)
+%\item jeudi 4 sept, 10h15 : Algèbre (Pierre-Emmanuel Chaput)
+%\item jeudi après-midi libéré pour présentation des associations etc
+%\item vendredi 5 sept, 8h : Parcours MA : calcul formel
+%\item vendredi 5 sept, 10h15 : Parcours MA : analyse numérique
+%\item vendredi 5 sept, 14h-18h15 : 1er cours de magistère
+%\item vendredi 5 sept, 13h30h: réunion pour les ME et MA intéressés par le CAPES (Nicole Bardy-Panse)
+%\item vendredi 5 sept, 14h00 : parcours ME et MA intéressés par CAPES : Structures et démonstrations (Nicole Bardy-Panse)
+%\item Lundi prochain cours exceptionnel de topo à 8h. Ensuite, Algèbre.
+%\end{itemize}
+%\end{frame}
+
+ \begin{frame}{Calendrier général, consultation des EDT}
+Il est conseillé d'installer l'appli UL, qui permet d'avoir accès à son ENT (notes, convocations examens) et de voir son emploi du temps.
+
+Même si vous n'avez pas encore d'identifiants UL, il ets possible de consulter l'emploi du temps sur \url{https://ent.univ-lorraine.fr} (sans se connecter) : voir instructions sur le site web : pdf \og consultation de l'emploi du temps)
+
+Le calendrier général de l'année est sur la page web de la L3. (calendrier-26-27.pdf)
+\end{frame}
+
+ \begin{frame}{IMPORTANT : Validation des modules SENSE}
+Tous les étudiants de licence doivent valider les modules \og SENSE\fg. Tout le monde est automatiquement inscrit à ces modules et ils apparaissent dans vos cours Arche.
+
+Ces modules sont à valider en ligne (QCMs). Ils sont NECESSAIRES pour obtenir le diplôme de licence.
+\end{frame}
+ 
+ 
+%
+%\subsection{Semaine 1 }
+%\begin{frame}{Semaine 1 }
+%%\begin{frame}
+% 
+%%\noindent\includegraphics[width=1\textwidth]{MCC-Licence-Mathématiques-S6-17-18.xlsx.ps} 
+% \includegraphics[width=1\textwidth]{Semaine1.png} 
+% 
+%%\end{frame}
+%\end{frame}
+%
+% \subsection{Semaine 2 }
+%\begin{frame}{Semaine 2}
+%%\begin{frame}
+ 
+%\noindent\includegraphics[width=1\textwidth]{MCC-Licence-Mathématiques-S6-17-18.xlsx.ps} 
+%\includegraphics[width=1\textwidth]{Semaine2.png} 
+ 
+%\end{frame}
+%\end{frame}
+
+ 
+% \begin{frame}{Calendrier  S6}
+% \includegraphics[width=1\textwidth]{calendrier-Maths-16-17-S6.jpg} 
+ % \end{frame}
+  
+
+\subsection{Parcours ME}
+
+
+ \begin{frame}{Présentation du parcours   ME}
+    %\begin{minipage}[2cm]{.06\linewidth}
+ \begin{tabular}{|l|l|l|}
+  \hline
+  \multicolumn{3}{|c|}{{\bf Mathématiques et Enseignement - Semestre 5}} \\
+  \hline
+    Nature des UE& Intitulé des UE & Crédits  \\
+  \hline
+  \multirow{3}{*}{UE Fondamentales} & {\color{mypink1}Intégration et probabilités} &9  \\
+                                                            & {\color{mypink1}Algèbre 2}&6  \\
+                                                            & Structures et démonstrations en Math&6  \\
+     \hline
+      \multirow{1}{*}{Options} & Algo pour l'enseignement des Math &6  \\
+     \hline
+ \multirow{4}{*}{UE internationalisation} &    &3  \\
+                                                            & \hspace{2.5cm}{\it {\color{mypink1} Anglais}} &  \\
+                                                            & \hspace{2.3cm} {\em {\color{mypink1} Maths en anglais}} &  \\
+     \hline
+
+\end{tabular}
+
+%\end{minipage}
+
+ \end{frame}
+
+
+%  
+%
+%\begin{frame}{Présentation du parcours   ME}
+%    %\begin{minipage}[2cm]{.06\linewidth}
+% \begin{tabular}{|l|l|l|}
+%  \hline
+%  \multicolumn{3}{|c|}{{\bf Mathématiques et Enseignement - Semestre 6}} \\
+%  \hline
+%    Nature des UE& Intitulé des UE & Crédits  \\
+%  \hline
+%  \multirow{4}{*}{UE Fondamentales} &  Probabilités et stat. pour l'enseignement &6  \\
+%                                                            &Utilisation des TICE en Math&6  \\
+%                                                            & Outils mathématiques, modélisation  &6  \\
+%                                                            & Géométrie pour l'enseignement  &6  \\
+%               \hline
+%      \multirow{2}{*}{Options (1/2)} & {\color{mypink1} TIPE} &3  \\
+%                                                            & {\color{mypink1} EAP4}&3  \\                                                  
+%     \hline
+% \multirow{3}{*}{UE transverse} & {\color{mypink1}UE Transverse }  &3  \\
+%                                                            & \hspace{2.5cm}{\it {\color{mypink1}EC Langue}} &  \\                                                          
+%                                                            & \hspace{2.3cm} {\em {\color{mypink1}Projet S6 Stage}} &  \\
+%     \hline
+%
+%\end{tabular}
+%
+%%\end{minipage}
+%
+% \end{frame}
+
+
+
+
+
+\subsection{Parcours MA }
+ \begin{frame}{Présentation du parcours MA }
+    %\begin{minipage}[2cm]{.06\linewidth}
+ \begin{tabular}{|l|l|l|}
+  \hline
+  \multicolumn{3}{|c|}{{\bf Mathématiques et Applications - Semestre 5}} \\
+  \hline
+    Nature des UE& Intitulé des UE & Crédits  \\
+  \hline
+  \multirow{3}{*}{UE Fondamentales} & {\color{mypink1}Intégration et probabilités} &9  \\
+                                                            & {\color{mypink1}Algèbre 2}&6  \\
+                                                            & Topologie et analyse hilbertienne&6  \\
+     \hline
+      \multirow{2}{*}{Options (1/2)} & Analyse numérique 1 &6  \\
+                                                            & Calcul formel&6  \\
+     \hline
+ \multirow{4}{*}{UE transverse} & {\color{mypink1}UE Transverse }  &2  \\
+                                                            & \hspace{2.5cm}{\it {\color{mypink1} Anglais}} &  \\
+                                                            & \hspace{2.3cm} {\em {\color{mypink1} Maths en anglais}} &  \\
+     \hline
+
+\end{tabular}
+
+%\end{minipage}
+
+ \end{frame}
+
+%\end{frame}
+
+  
+%
+% \begin{frame}{Présentation du MA }
+%    %\begin{minipage}[2cm]{.06\linewidth}
+% \begin{tabular}{|l|l|l|}
+%  \hline
+%  \multicolumn{3}{|c|}{{\bf Mathématiques et Applications - Semestre 6}} \\
+%  \hline
+%    Nature des UE& Intitulé des UE & Crédits  \\
+%  \hline
+%  \multirow{3}{*}{UE Fondamentales} &  Analyse complexe &6  \\
+%                                                            &Calcul différentiel et équa. diff. &6  \\
+%                                                            & Probabilités et statistique &9  \\
+%     \hline
+%      \multirow{2}{*}{Options (1/2)} & Analyse numérique 2 &3  \\
+%                                                            & Géométrie&3  \\
+%          \hline
+%      \multirow{2}{*}{Options (1/2)} &  {\color{mypink1} TIPE }&3  \\
+%                                                            &  {\color{mypink1} EAP4}&3  \\                                                  
+%     \hline
+% \multirow{3}{*}{UE transverse} & {\color{mypink1}UE Transverse }  &3  \\
+%                                                            & \hspace{2.5cm}{\it {\color{mypink1}EC Langue}} &  \\                                                          
+%                                                            & \hspace{2.3cm} {\em {\color{mypink1}Projet S6 Stage}} &  \\
+%     \hline
+%
+%\end{tabular}
+%
+%%\end{minipage}
+%
+% \end{frame}
+
+
+
+
+
+\subsection{Présentation des UE de S5-Automne}
+\begin{frame}
+{\bf UE Internationalisation (MA \& ME) $\to$ 3 ECTS}
+%ECA :Anglais. 20h TD
+%ECB : Projet Personnel. 10h TD
+
+\begin{block}<+->{EC-A  : Anglais.  \\  EC-B  : Maths en anglais}
+
+\end{block}
+
+ 
+\end{frame}
+
+
+
+\begin{frame}
+{\bf UEF Structure et Démonstrations en Math. (ME) }
+\begin{block}<+->{Structures et Démonstrations en Math.  (6 ECTS) \ } 
+$\to$ Les  structures étudiées :\\
+  Les ensembles des entiers naturels, des entiers, des décimaux, des rationnels ,des réels,
+des nombres complexes.  L'ensemble des vecteurs du plan et de l'espace sur une base de géométrie élémentaire.  Les solutions d'équations différentielles linéaires. les méthodes de point fixe
+
+$\to$ Les outils du raisonnement étudiés :\\
+  la (les) démonstration(s) par récurrence (démonstration de la validité de ce mode de
+raisonnement). Implication, équivalence. Condition nécessaire, condition suffisante. La règle de déduction. La démonstration par l'absurde. Analyse-synthèse. La méthode de fausse position (ou essai-erreur, ou essai-ajustement).
+
+
+\end{block}
+\end{frame}
+
+
+
+
+\begin{frame}
+{\bf UEO Algorithmes pour l'enseignement des mathématiques  (ME)}
+\begin{block}<+->{Algorithmes pour l'enseignement des mathématiques .   (6 ECTS) } 
+$\to$ Structures de données (tableaux, listes,...)\\
+$\to$ Algorithmes de tri.\\
+$\to$ Programmation (Python).
+\end{block}
+\end{frame}
+
+
+ 
+\begin{frame}
+{\bf UEF Intégration et probabilités  (MA \& ME)  }
+\begin{block}<+->{Intégration et Probabilités.  (9ECTS)} 
+$\to$ Limites supérieures, limites inférieures.\\
+$\to$ Tribus et  mesures.\\ %fonction mesurable, espaces mesurés. L'existence de la mesure de
+%Lebesgue est admise. Mesure à densité, mesure image, mesure de comptage.
+%Indépendance des tribus; lemme des coalitions, Loi 0?1 de Kolmogorov.\\
+$\to$ Intégrale des fonctions réelles ou complexes par rapport à une mesure, convergence
+monotone, dominée. Intégrales par rapport à une mesure à densité, à une mesure image, à
+une mesure de comptage. Intégrales à paramètre. Théorème de Fubini.\\
+%$\to$ Mesure produit, théorèmes de Tonelli et Fubini.
+$\to$ Mesure de Lebesgue sur $\mathbb R^n$.\\% image par des transformations affines. Calculs d?aires et de volumes.
+$\to$ Lois des variables aléatoires et des vecteurs aléatoires, lois discrètes,
+  lois continues classiques.\\%: loi uniforme sur un compact de R ou $R^n$, loi gaussienne sur R, loi exponentielle, loi Gamma.\\
+$\to$ Théorème de transfert. Calcul des premiers moments des lois usuelles.\\
+$\to$ Indépendance des variables aléatoires, des vecteurs aléatoires. Convolution des lois, en
+particulier dans le cas des variables à densité. Inégalité de Jensen. Inégalité de Markov.
+\end{block}
+\end{frame}
+
+\begin{frame}
+{\bf UEF Algèbre 2  (MA \& ME) }
+\begin{block}<+->{Algèbre 2.   (6 ECTS) } 
+$\to$ Groupes, sous-groupes, Sous-groupes distingués, groupes quotients, théorème d'isomorphisme. \\ %Suites
+%exactes courtes. \\%La notion d?extension scindée et de produit semi-direct peut être introduite
+%en TD mais son étude est reportée au M1.
+$\to$ Action de groupes.  Centralisateurs, normalisateurs, classes de conjugaison.
+%Illustration de ces notions à l'aide de groupes symétriques et de groupes d'isométries de polygones réguliers. 
+Théorème de Cauchy. Formule de Burnside-Cauchy. \\
+$\to$ Compléments sur les groupes cycliques : générateurs, ordre des éléments, morphismes
+entre groupes cycliques.
+Groupes symétriques. Groupe alterné. %Classes de conjugaison.
+%Formule des classes. Théorème de Cauchy. Formule de Burnside-Cauchy.  
+
+ $\to$ Théorèmes de Sylow
+
+ \end{block}
+\end{frame}
+
+
+\begin{frame}
+{\bf UEF Topologie et analyse hilb. (MA)}
+\begin{block}<+->{Topologie et analyse hilbertienne.  (6 ECTS) \ } 
+$\to$ Topologie des espaces métriques.   Boules fermées et ouvertes. Suites,  adhérence.   Applications continues. Applications uniformément continues.
+Applications lipschitziennes. Connexité. Complétude et compacité.  
+
+$\to$ Espaces vectoriels normés. Norme, distance. Normes équivalentes.  
+Continuité des applications linéaires. Norme d'une application linéaire. Espaces de Banach.
+Théorème de Riesz. Convexité. Norme de la convergence uniforme.  
+
+$\to$ Espaces de Hilbert. Inégalité de Cauchy-Schwarz. Inégalité triangulaire. Norme associée à
+un produit scalaire ou hermitien. Espace préhilbertien et espace de Hilbert. Orthogonalité.
+Famille orthogonale et famille orthonormée. Inégalité de Bessel. Dual d'un espace de
+Hilbert. Fonctions de carrés intégrables sur un intervalle quelconque.  
+
+ 
+\end{block}
+\end{frame}
+
+ 
+
+
+\begin{frame}
+{\bf UEO  Analyse numérique (MA)   }
+\begin{block}<+->{Analyse numérique 1.  (6 ECTS)} 
+ $\to$ Compléments (avec rappels) d'analyse matricielle, décomposition en valeurs singulières,
+normes matricielles, notion de conditionnement de matrices.\\
+$\to$ Résolution de systèmes linéaires par des méthodes directes (décomposition LU,
+factorisation de Cholesky, décomposition QR ? méthode de Householder).\\
+$\to$ Résolution de systèmes linéaires par des méthodes itératives (méthode de Jacobi,
+méthode de Gauss-Seidel, méthode de Relaxation, introduction à la méthode de Gradient),
+Critères de Convergence.\\
+$\to$ Introduction à la résolution de systèmes non-linéaires (méthodes de Newton et variantes,
+propriétés de convergence). 
+\end{block}
+ 
+\end{frame}
+
+
+\begin{frame}
+{\bf UEO Calcul formel  (MA) }
+\begin{block}<+->{Calcul formel.   (6 ECTS)} 
+$\to$ Algorithme d'Euclide étendu. Algorithme de Garner.\\
+$\to$ Nombres premiers : exemples de tests de primalité. Algorithmes polynomiaux. Introduction à
+la cryptographie. Calcul modulaire du PGCD de polynômes.\\
+$\to$ Lemme de Hensel. Factorisation dans $\mathbb{Z}[X]$. 
+\end{block}
+\end{frame}
+
+
+
+%\begin{frame}
+%{\bf UEO AED}
+%\begin{block}<+-> {Option EAP (3 ECTS)}
+%A la place de AN/CF (en MA) ou Algo (en ME) les étudiants AED (apprentis professeurs, nommés par le rectorat) peuvent choisir l'Option\og  EAP\fg. Dans ce cadre ils doivent rédiger un rapport lié à leur apprentissage. Une soutenance est prévue à la fin du semestre.
+%\end{block}
+%\end{frame}
+
+
+\begin{frame}
+{\bf Stage au semestre 6  }
+\begin{block}<+->{Stage : EC de l'UE transverse du S6} 
+Pour valider votre Licence, vous devez effectuer un stage d'une durée de 3 semaines minimum  dans une entreprise privée ou un organisme public avant la fin de vos 3 années d'études. A cet effet, vous devez retirer sur l'ENT  l'imprimé de convention de stage, le faire signer par votre employeur, moi-même puis le directeur de l'UFR {\color{red} au moins 3 semaines avant le début du stage}.
+
+Dans le cas d'un travail rémunéré, l'étudiant doit fournir une copie de son bulletin de salaire justifiant un minimum de 100h effectuées.  
+
+A l'issue du stage, vous devez rédiger un rapport écrit de 10 à 15 pages.
+
+En cas de stage dans un établissement scolaire, la durée est réduite à deux semaines.
+\end{block}
+\begin{alertblock}<+->{} Le rapport de stage est à rendre impérativement avant le 15 mai 2026.
+\end{alertblock}
+\end{frame}
+
+
+\subsection{Modalités de Contrôle des Connaissances}
+\begin{frame}{\bf  CC, Partiels, examens puis seconde session}
+Les MCC détaillées et officielles seront sur la page d'informations de la L3, à l'adresse \url{https://github.com/dmegy/L3}. La plupart des UE ont $20\%$ de contrôle continu, $30\%$ de partiel, et $50\%$ d'examen final. Attention, certaines UE (par exemple celles \og à rapport\fg:  TIPE, rapport de stage) n'ont PAS de seconde session, un ABI à ces UE entraîne une défaillance à l'année. 
+\end{frame}
+
+ 
+
+
+
+
+
+ 
+%\begin{frame}
+ 
+ %\PSbox{MCC-Licence-Mathématiques-S5-17-18.ps}{4in}{6in}
+%\includegraphics[width=1.1\textwidth]{MCC-S5-17-18.pdf} 
+ 
+ 
+%\end{frame}
+
+
+%\begin{frame}
+ 
+%\noindent\includegraphics[width=1\textwidth]{MCC-Licence-Mathématiques-S6-17-18.xlsx.ps} 
+ %\includegraphics[width=1.1\textwidth]{MCC-S6-17-18.pdf} 
+ 
+%\end{frame}
+
+ \begin{frame}{Absences}
+ \begin{alertblock}{Gestion des absences}
+ \begin{itemize}
+ \item Absence injustifiée : la mention ABI (Absence Injustifiée) sera portée sur le relevé de notes à l'épreuve concernée. L'étudiant est noté donc défaillant (DEF), il ne peut valider ni l'UE, ni le semestre.
+ \item Absence justifiée :  organisation d'une autre épreuve de remplacement ou neutralisation de la note. Pour cela il faut impérativement présenter un justificatif le lendemain de votre absence. \\ %Ce point sera précisé dans les semaines à venir.
+ \item Trop d'absences, même justifiées, conduisent à une défaillance à l'UE. Exemple de cas limite : une absence justifiée à toutes les épreuves d'une UE provoque une défaillance à l'UE et donc au semestre et à l'année.
+ \end{itemize}
+ \end{alertblock}
+ 
+% \begin{alertblock}{Conséquence}
+% Plus question de {\it sécher} les TD sauf autorisation du directeur des études (par exemple une autorisation est accordée aux les étudiants salariés ou sportifs de haut niveau).
+ % \end{alertblock}
+ \end{frame}
+ 
+ 
+  \begin{frame}{Fraude/tentative de fraude}
+ \begin{alertblock}{Gestion des tentatives de fraude}
+Ne fraudez pas. Les tentatives de fraude font l'objet d'un PV, que vous contestiez ou pas, que vous le signiez ou pas. Ensuite, la machine s'enclenche.
+\begin{itemize}
+\item C'est un cauchemar administratif pour vous en particulier l'année où il faut candidater en Master (notes et ENT bloqués, bulletins non disponibles jusqu'au \og jugement\fg, même s'il à la la fin il n'y a pas de sanction importante.)
+\item C'est un cauchemar administratif pour moi.
+\end{itemize}
+ \end{alertblock}
+ 
+% \begin{alertblock}{Conséquence}
+% Plus question de {\it sécher} les TD sauf autorisation du directeur des études (par exemple une autorisation est accordée aux les étudiants salariés ou sportifs de haut niveau).
+ % \end{alertblock}
+ \end{frame}
+
+
+\subsection{Autres informations}
+\begin{frame}{Autres informations}
+%\begin{alertblock}{Equivalences des UE}
+%Pour les équivalences des UE, passez me voir 
+%\begin{itemize}
+%\item jeudi 12 septembre de 8h à 10h 
+%\item  vendredi 13 septembre de 13h à 15h
+%\end{itemize}
+%\end{alertblock}
+
+\begin{block}{Composition des groupes de TD/TP}
+La composition des groupes TD/TP  des options sera affichée dès que possible. Regardez votre emploi du temps. Vous pourrez également regarder l'emploi du temps de toute la promo L3, pas juste de votre groupe.
+\end{block}
+%\end{frame}
+
+%\begin{frame}
+\begin{block}{Consultation des informations}
+Vous pouvez consulter 
+\begin{itemize}
+\item ADE (sur votre ENT)
+\item Page web de la L3 : \url{https://github.com/dmegy/L3}
+%\item Pas de page Arche prévue, s'il finit par y en avoir une ça sera une redirection vers la page github plus haut.
+\end{itemize}
+\end{block}
+\end{frame}
+
+
+%\begin{frame}
+%\begin{alertblock}{Fiche d'inscription pédagogique}
+%Rendre la fiche d'inscription pédagogique à la fin de la réunion
+%\end{alertblock}
+%\end{frame}
+%
+
+
+
+\begin{frame}
+ 
+
+\begin{block}<+->{}\begin{center}Bonne rentrée\\
+Page d'informations sur la L3:\\
+\qrcode[height=6cm]{https://github.com/dmegy/L3}
+%\includegraphics[scale=.5]{page-github-L3.png}
+\end{center}
+\end{block}
+
+\end{frame}
+
+\end{document}

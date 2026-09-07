@@ -40,11 +40,14 @@ Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr
 ## Calendrier prévisionnel de la L3
 
 Le calendrier de l'année : 
-[calendrier2526.pdf](calendrier2526.pdf)
+[calendrier2526.pdf](calendrier-26-27.pdf)
+Ce calendrier ne fait pas apparaître les semaines de partiels.
+Les partiels de premier semestre auront lieu juste après les vacances de la Toussaint.
 
 ## Pour débuter en LaTeX
 
-Le rapport de stage doit être rendu en LaTeX. Voici un document minmal fonctionnel, compilable avec "pdflatex" qui est le compilateur _legacy_ mais toujours le plus répandu et standard :
+Le rapport de stage doit être rendu en LaTeX.
+Voici un document minmal fonctionnel, compilable avec "pdflatex" qui est le compilateur _legacy_ mais toujours le plus répandu et standard :
 
 ```latex
 \documentclass{article}
@@ -61,7 +64,7 @@ Tutoriel recommandé : \url{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_
 ```
 
 
-Dans le sous-dossier [ressources-pour-latex](ressources-pour-latex/), vous trouverez des documents pdf pour vous ader à vous familiariser avec LaTeX. (Conseil : si vous disposez d'un ordinateur personnel, installez LaTeX. Overleaf, c'est bien pour partager son travail ou collaborer sur un projet, mais c'est quand même assez lent et pénible pour plein de choses.
+Dans le sous-dossier [ressources-pour-latex](ressources-pour-latex/), vous trouverez des documents pdf pour vous ader à vous familiariser avec LaTeX. (Conseil : si vous disposez d'un ordinateur personnel, installez LaTeX, vraiment. Overleaf, c'est bien pour partager son travail ou collaborer sur un projet, mais c'est quand même assez lent et pénible pour plein de choses.
 
 
 ## Bibliographie pour la Licence de mathématiques
@@ -82,10 +85,11 @@ Pour les anciens. Les informations sont dans le fichier [retirer-son-diplome.md]
 
 ## STAGES
 
-Le stage est obligatoire pour valider le diplôme de licence.
-Dans tous les cas listés ci-dessous, un rapport de stage devra être remis avant mi-mai, sera noté, et comptera dans votre moyenne.
+Le stage est **obligatoire** pour valider le diplôme de licence.
+Dans tous les cas listés ci-dessous, un rapport de stage devra être remis le 15 mai, sera noté, et comptera dans votre moyenne.
 
-- Si vous êtes magistérien(ne), vous *devez* faire un stage de recherche en laboratoire de recherche : IECL, ou autre laboratoire scientifique comme le Loria (info) ou le laboratoire de physique théorique.
-- Sinon, il faut faire un stage mais pas nécessairement mathématique : ça peut être un stage en laboratoire de recherche (maths ou autre), en entreprise (n'importe quel type d'entreprise, non nécessairement scientifique), ou en établissement scolaire, auquel cas la durée est réduite de 3 à deux semaines. Le travail salarié de plus de trois semaines valide également le stage (fiche de paie à l'appui). Pour plus d'informations, me contacter ou contacter Elisa Landormy, qui gérera la signature des conventions de stage.
+- Si vous êtes magistérien(ne), le stage doit être un stage de recherche en laboratoire de recherche : IECL, ou autre laboratoire scientifique comme le Loria (info) ou le laboratoire de physique théorique. Si ce n'est pas un stage dans un labo de maths, la part de maths dans le stage (et dans le rapport) doit être (très) importante.
+- Sinon, il faut faire un stage mais pas nécessairement mathématique : ça peut être un stage en laboratoire de recherche (maths ou autre), en entreprise (n'importe quel type d'entreprise, non nécessairement scientifique), ou en établissement scolaire, auquel cas la durée est réduite de 3 à deux semaines. 
+Le travail salarié de plus de trois semaines valide également le stage (fiche de paie à l'appui). Pour plus d'informations, me contacter ou contacter Elisa Landormy, qui gérera la signature des conventions de stage.
 
 
