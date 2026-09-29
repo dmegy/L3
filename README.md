@@ -91,5 +91,6 @@ Dans tous les cas listés ci-dessous, un rapport de stage devra être remis le 1
 - Si vous êtes magistérien(ne), le stage doit être un stage de recherche en laboratoire de recherche : IECL, ou autre laboratoire scientifique comme le Loria (info) ou le laboratoire de physique théorique. Si ce n'est pas un stage dans un labo de maths, la part de maths dans le stage (et dans le rapport) doit être (très) importante.
 - Sinon, il faut faire un stage mais pas nécessairement mathématique : ça peut être un stage en laboratoire de recherche (maths ou autre), en entreprise (n'importe quel type d'entreprise, non nécessairement scientifique), ou en établissement scolaire, auquel cas la durée est réduite de 3 à deux semaines. 
 Le travail salarié de plus de trois semaines valide également le stage (fiche de paie à l'appui). Pour plus d'informations, me contacter ou contacter Elisa Landormy, qui gérera la signature des conventions de stage.
+- Le document [stages.md](stages.md) contient une liste d'entreprises ou structures ayant déjà accueilli des stagiaires, ainsi que les titres des stages de maths de l'année précédente. 
 
 
