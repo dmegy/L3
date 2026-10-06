@@ -3,6 +3,15 @@
 
 Quelques informations, non exhaustif.
 
+## Convention de stage
+
+Sauf si le stage est validé par une expérience de travail salarié, vous devrez remplir une convention de stage et la faire signer par la structure d'accueil ainsi que par plusieurs personnes à l'université de Lorraine. La convention contient les détails sur le stage, les dates, la structure d'accueil etc. Elle doit être remplie très en avance (trois semaines avant). 
+
+Il est demandé de commencer par télécharger et remplir le document [notice-preparatoire-convention-stage.docx](notice-preparatoire-convention-stage.docx). Une fois cette notice remplie, vous pouvez la renvoyer à Carine Gerondi (fst-licence-maths-adm@univ-lorraine.fr) en me mettant en copie. Tout ceci a lieu avant d'établir la convention de stage elle-même.
+
+(Pour pouvoir remplir cette notice, vous devez donc déjà avoir une structure d'accueil avec un encadrant ayant donné son accord, et avoir choisi vos dates. Il faut aussi disposer de certaines informations sur la structure d'accueil, qui peuvent vous être fournies par votre futur encadrant le cas échéant : voir document.)
+
+
 ## Rapport de stage 
 
 Dans tous les cas : 
