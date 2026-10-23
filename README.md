@@ -13,8 +13,8 @@ Cette page contient:
 - Questions en rapport avec un cours : le responsable de cours directement.
 - Responsable L3 : Damien Mégy
 - Responsables Magistère : David Dos Santos Ferreira et Damien Mégy
-- pour une question administrative (frais de scolarité, certificats, attestation de réussite, diplôme...) : contacter la scolarité : Mme Emmanuel Schafroth fst-scol-miae@univ-lorraine.fr
-- secrétariat pédagogique (emploi du temps, changement d'option, justification d'absence, conventions de stage): Carine Gérondi  fst-licence-maths-adm@univ-lorraine.fr 
+- pour une question administrative (frais de scolarité, certificats, attestation de réussite, diplôme...) : contacter la scolarité :  Emmanuelle Schafroth fst-scol-miae@univ-lorraine.fr
+- secrétariat pédagogique (emploi du temps, changement d'option, justification d'absence, conventions de stage): Carine Gérondi , utiliser l'adresse suivante :  fst-licence-maths-adm@univ-lorraine.fr 
 
 
 
@@ -40,8 +40,8 @@ Vous voyez normalement votre emploi du temps sur votre ENT (ent.univ-lorraine.fr
 ## Calendrier prévisionnel de la L3
 
 Le calendrier de l'année : 
-[calendrier2526.pdf](calendrier-26-27.pdf)
-Ce calendrier ne fait pas apparaître les semaines de partiels.
+[calendrier2627.pdf](calendrier-26-27.pdf)
+Ce calendrier ne fait pas apparaître les semaines de partiels, uniquement les examens, 1ère et seconde session, jours fériés etc.
 Les partiels de premier semestre auront lieu juste après les vacances de la Toussaint.
 
 ## Pour débuter en LaTeX
